@@ -1,0 +1,3588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdRotate\n"
+"POT-Creation-Date: 2019-09-20 16:31-0500\n"
+"PO-Revision-Date: 2019-10-30 16:10+0700\n"
+"Language-Team: Arnan de Gans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: vi\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adrotate-functions.php:618
+msgid "No files found"
+msgstr "Không tìm thấy tập tin"
+
+#: adrotate-functions.php:621
+msgid "Folder not found or not accessible"
+msgstr "Không tìm thấy thư mục hoặc không truy cập được"
+
+#: adrotate-functions.php:706
+msgid "Ad saved"
+msgstr "Quảng cáo đã lưu"
+
+#: adrotate-functions.php:710
+msgid "Group saved"
+msgstr "Nhóm đã lưu"
+
+#: adrotate-functions.php:714
+msgid "Ad(s) deleted"
+msgstr "Quảng cáo đã bị xóa"
+
+#: adrotate-functions.php:718
+msgid "Group deleted"
+msgstr "Nhóm đã xóa"
+
+#: adrotate-functions.php:722
+msgid "Ad(s) statistics reset"
+msgstr "Đặt lại thống kê quảng cáo"
+
+#: adrotate-functions.php:726
+msgid "Ad(s) renewed"
+msgstr "Quảng cáo được gia hạn"
+
+#: adrotate-functions.php:730
+msgid "Ad(s) deactivated"
+msgstr "Quảng cáo đã bị hủy kích hoạt"
+
+#: adrotate-functions.php:734
+msgid "Ad(s) activated"
+msgstr "Quảng cáo được kích hoạt"
+
+#: adrotate-functions.php:738
+msgid "Group including it's Ads deleted"
+msgstr "Nhóm bao gồm cả Quảng cáo đã bị xóa"
+
+#: adrotate-functions.php:742
+msgid "Export created"
+msgstr "Xuất tạo"
+
+#: adrotate-functions.php:746
+msgid ""
+"Advert HTML generated and placed in the AdCode field. Configure your advert "
+"below."
+msgstr ""
+"Quảng cáo HTML được tạo và đặt trong trường AdCode. Định cấu hình quảng cáo "
+"của bạn dưới đây."
+
+#: adrotate-functions.php:751
+msgid "Settings saved"
+msgstr "Đã lưu cài đặt"
+
+#: adrotate-functions.php:755
+msgid "Database optimized"
+msgstr "Cơ sở dữ liệu được tối ưu hóa"
+
+#: adrotate-functions.php:759
+msgid "Database repaired"
+msgstr "Sửa chữa cơ sở dữ liệu"
+
+#: adrotate-functions.php:763
+msgid "Ads evaluated and statuses have been corrected where required"
+msgstr "Quảng cáo được đánh giá và trạng thái đã được sửa chữa khi cần thiết"
+
+#: adrotate-functions.php:767
+msgid "Cleanup complete"
+msgstr "Dọn dẹp xong"
+
+#: adrotate-functions.php:772
+msgid "Action prohibited"
+msgstr "Hành động bị cấm"
+
+#: adrotate-functions.php:776
+msgid ""
+"The ad was saved but has an issue which might prevent it from working "
+"properly. Review the colored ad."
+msgstr ""
+"Quảng cáo đã được lưu nhưng có một vấn đề có thể ngăn nó hoạt động bình "
+"thường. Xem lại quảng cáo màu."
+
+#: adrotate-functions.php:780
+msgid "No data found in selected time period"
+msgstr "Không tìm thấy dữ liệu trong khoảng thời gian đã chọn"
+
+#: adrotate-functions.php:784
+msgid "Database can only be optimized or cleaned once every hour"
+msgstr "Cơ sở dữ liệu chỉ có thể được tối ưu hóa hoặc làm sạch mỗi giờ một lần"
+
+#: adrotate-functions.php:788
+msgid "Form can not be (partially) empty!"
+msgstr "Mẫu không thể để trống (một phần)!"
+
+#: adrotate-functions.php:792
+msgid "No ads found."
+msgstr "Không tìm thấy quảng cáo."
+
+#: adrotate-functions.php:796
+msgid "Unexpected error"
+msgstr "Lỗi không mong đợi"
+
+#: adrotate-manage-publisher.php:782
+msgid "AdRotate Advertiser"
+msgstr "Nhà quảng cáo AdRotate"
+
+#: adrotate-output.php:542
+msgid "Oh no! Something went wrong!"
+msgstr "Ôi không! Đã xảy ra lỗi!"
+
+#: adrotate-output.php:543
+msgid ""
+"WordPress was unable to verify the authenticity of the url you have clicked. "
+"Verify if the url used is valid or log in via your browser."
+msgstr ""
+"WordPress không thể xác minh tính xác thực của url bạn đã nhấp. Xác minh xem "
+"url được sử dụng là hợp lệ hoặc đăng nhập qua trình duyệt của bạn."
+
+#: adrotate-output.php:544
+msgid ""
+"If you have received the url you want to visit via email, you are being "
+"tricked!"
+msgstr "Nếu bạn đã nhận được url bạn muốn truy cập qua email, bạn đang bị lừa!"
+
+#: adrotate-output.php:545
+msgid "Contact support if the issue persists:"
+msgstr "Liên hệ với bộ phận hỗ trợ nếu vấn đề vẫn còn:"
+
+#: adrotate-output.php:560
+msgid ""
+"Error, Ad is not available at this time due to schedule/geolocation "
+"restrictions or does not exist!"
+msgstr ""
+"Lỗi, Quảng cáo không có sẵn tại thời điểm này do hạn chế về lịch trình / vị "
+"trí địa lý hoặc không tồn tại!"
+
+#: adrotate-output.php:562
+msgid ""
+"Error, Ad is not available at this time due to schedule/geolocation "
+"restrictions!"
+msgstr ""
+"Lỗi, Quảng cáo không có sẵn tại thời điểm này do hạn chế về lịch trình / vị "
+"trí địa lý!"
+
+#: adrotate-output.php:569 adrotate-output.php:571
+msgid ""
+"Either there are no banners, they are disabled or none qualified for this "
+"location!"
+msgstr ""
+"Không có biểu ngữ, chúng bị vô hiệu hóa hoặc không có đủ điều kiện cho vị "
+"trí này!"
+
+#: adrotate-output.php:577
+msgid "Error, no Ad ID set! Check your syntax!"
+msgstr "Lỗi, không có ID quảng cáo được đặt! Kiểm tra cú pháp của bạn!"
+
+#: adrotate-output.php:583
+msgid "Error, no group ID set! Check your syntax!"
+msgstr "Lỗi, không có ID nhóm! Kiểm tra cú pháp của bạn!"
+
+#: adrotate-output.php:588
+msgid "Error, group does not exist! Check your syntax!"
+msgstr "Lỗi, nhóm không tồn tại! Kiểm tra cú pháp của bạn!"
+
+#: adrotate-output.php:594
+msgid ""
+"There was an error locating the database tables for AdRotate. Please "
+"deactivate and re-activate AdRotate from the plugin page!!"
+msgstr ""
+"Đã xảy ra lỗi khi định vị các bảng cơ sở dữ liệu cho AdRotate. Vui lòng hủy "
+"kích hoạt và kích hoạt lại AdRotate từ trang plugin !!"
+
+#: adrotate-output.php:594
+msgid "If this does not solve the issue please seek support at"
+msgstr ""
+"Nếu điều này không giải quyết được vấn đề, vui lòng tìm kiếm sự hỗ trợ tại"
+
+#: adrotate-output.php:600
+msgid ""
+"There was an error loading the page. Please try again by reloading the page "
+"via the menu on the left."
+msgstr ""
+"Có lỗi khi tải trang. Vui lòng thử lại bằng cách tải lại trang qua menu bên "
+"trái."
+
+#: adrotate-output.php:600
+msgid "If the issue persists please seek help at"
+msgstr "Nếu vấn đề vẫn còn, vui lòng tìm kiếm sự giúp đỡ tại"
+
+#: adrotate-output.php:606
+msgid "An unknown error occured."
+msgstr "Đã xảy ra lỗi không xác định."
+
+#: adrotate-output.php:626 adrotate-output.php:629 adrotate-output.php:633
+msgid "Check adverts"
+msgstr "Kiểm tra quảng cáo"
+
+#: adrotate-output.php:638
+msgid ""
+"You have enabled caching support but W3 Total Cache is not active on your "
+"site!"
+msgstr ""
+"Bạn đã bật hỗ trợ bộ đệm nhưng W3 Total Cache không hoạt động trên trang web "
+"của bạn!"
+
+#: adrotate-output.php:638
+msgid "Disable W3 Total Cache Support"
+msgstr "Vô hiệu hóa hỗ trợ bộ nhớ cache W3 Total Cache"
+
+#: adrotate-output.php:641
+msgid ""
+"You have enable caching support but the W3TC_DYNAMIC_SECURITY definition is "
+"not set."
+msgstr ""
+"Bạn đã bật hỗ trợ bộ đệm nhưng định nghĩa W3TC_DYNAMIC_SECURITY không được "
+"đặt."
+
+#: adrotate-output.php:641
+msgid "How to configure W3 Total Cache"
+msgstr "Cách định cấu hình W3 Total Cache"
+
+#: adrotate-output.php:645
+msgid ""
+"You have enable caching support but Borlabs Cache is not active on your site!"
+msgstr ""
+"Bạn đã bật hỗ trợ bộ đệm nhưng Borlabs Cache không hoạt động trên trang web "
+"của bạn!"
+
+#: adrotate-output.php:645
+msgid "Disable Borlabs Cache Support"
+msgstr "Vô hiệu hóa hỗ trợ bộ nhớ cache Borlabs Cache"
+
+#: adrotate-output.php:653
+msgid ""
+"You have enabled Borlabs Cache support but Fragment caching is not enabled!"
+msgstr ""
+
+#: adrotate-output.php:653
+msgid "Enable Fragment Caching"
+msgstr "Kích hoạt Fragment Caching"
+
+#: adrotate-output.php:659
+msgid "Your AdRotate Banner folder is not writable or does not exist."
+msgstr "Thư mục Banner AdRotate của bạn không thể ghi hoặc không tồn tại."
+
+#: adrotate-output.php:659
+msgid "Set up your banner folder"
+msgstr "Thiết lập thư mục biểu ngữ của bạn"
+
+#: adrotate-output.php:684 adrotate.php:436
+#: dashboard/publisher/schedules-main.php:13
+msgid "Get AdRotate Pro"
+msgstr "Nhận AdRotate Pro"
+
+#: adrotate-output.php:685
+msgid ""
+"Upgrade to <strong>AdRotate Professional</strong> and get features like Geo "
+"Targeting, Scheduling and more..."
+msgstr ""
+"Nâng cấp lên <strong> AdRotate Professional </strong> và nhận các tính năng "
+"như Nhắm mục tiêu theo địa lý, Lập lịch và hơn thế nữa ..."
+
+#: adrotate-output.php:685
+#, php-format
+msgid ""
+"Use coupon code <b>IWANTADROTATEPRO</b> and get a 20% discount on any "
+"AdRotate Professional license!"
+msgstr ""
+"Sử dụng mã giảm giá <b>IWANTADROTATEPRO</b> và được giảm giá 20%d cho bất kỳ "
+"giấy phép AdRotate Professional nào!"
+
+#: adrotate-output.php:685
+msgid "Thank you for your support!"
+msgstr "Cảm ơn sự hỗ trợ của bạn!"
+
+#: adrotate-output.php:749
+msgid "your attention:"
+msgstr "sự chú ý của bạn:"
+
+#: adrotate-output.php:784
+msgid ""
+"Thank you for choosing AdRotate. Everything related to AdRotate is in this "
+"menu. If you need help getting started take a look at the"
+msgstr ""
+"Cảm ơn bạn đã chọn AdRotate. Tất cả mọi thứ liên quan đến AdRotate đều có "
+"trong menu này. Nếu bạn cần giúp đỡ để bắt đầu, hãy xem"
+
+#: adrotate-output.php:784
+msgid "manuals"
+msgstr "hướng dẫn sử dụng"
+
+#: adrotate-output.php:784 adrotate-output.php:881
+msgid "and"
+msgstr "và"
+
+#: adrotate-output.php:784
+msgid "forums"
+msgstr "diễn đàn"
+
+#: adrotate-output.php:873
+msgid "Help AdRotate Grow"
+msgstr "Giúp AdRotate phát triển"
+
+#: adrotate-output.php:874 adrotate.php:152
+msgid "AdRotate Professional"
+msgstr ""
+
+#: adrotate-output.php:881
+msgid ""
+"Many users only think to review AdRotate when something goes wrong while "
+"thousands of people happily use AdRotate."
+msgstr ""
+"Nhiều người dùng chỉ nghĩ để xem lại AdRotate khi có sự cố xảy ra trong khi "
+"hàng ngàn người vui vẻ sử dụng AdRotate."
+
+#: adrotate-output.php:881
+msgid "If you find AdRotate useful please leave your"
+msgstr "Nếu bạn thấy AdRotate hữu ích, vui lòng để lại"
+
+#: adrotate-output.php:881
+msgid "rating"
+msgstr "xếp hạng"
+
+#: adrotate-output.php:881
+msgid "review"
+msgstr "xem lại"
+
+#: adrotate-output.php:881
+msgid "on WordPress.org to help AdRotate grow in a positive way"
+msgstr "trên WordPress.org để giúp AdRotate phát triển theo hướng tích cực"
+
+#: adrotate-output.php:882
+msgid ""
+"Get more advanced features like Geo Targeting, scheduling and much more with "
+"AdRotate Pro."
+msgstr ""
+"Nhận các tính năng nâng cao hơn như Nhắm mục tiêu theo địa lý, lên lịch và "
+"nhiều hơn nữa với AdRotate Pro."
+
+#: adrotate-output.php:882
+msgid "Includes premium support and free updates for one year!"
+msgstr "Bao gồm hỗ trợ cao cấp và cập nhật miễn phí trong một năm!"
+
+#: adrotate-output.php:882
+msgid "Get started today"
+msgstr "Bắt đầu từ hôm nay"
+
+#: adrotate-statistics.php:155
+msgid "January"
+msgstr "Tháng 1"
+
+#: adrotate-statistics.php:155
+msgid "February"
+msgstr "Tháng 2"
+
+#: adrotate-statistics.php:155
+msgid "March"
+msgstr "Tháng 3"
+
+#: adrotate-statistics.php:155
+msgid "April"
+msgstr "Tháng 4"
+
+#: adrotate-statistics.php:155
+msgid "May"
+msgstr "Tháng 5"
+
+#: adrotate-statistics.php:155
+msgid "June"
+msgstr "Tháng 6"
+
+#: adrotate-statistics.php:155
+msgid "July"
+msgstr "Tháng 7"
+
+#: adrotate-statistics.php:155
+msgid "August"
+msgstr "Tháng 8"
+
+#: adrotate-statistics.php:155
+msgid "September"
+msgstr "Tháng 9"
+
+#: adrotate-statistics.php:155
+msgid "October"
+msgstr "Tháng 10"
+
+#: adrotate-statistics.php:155
+msgid "November"
+msgstr "Tháng 11"
+
+#: adrotate-statistics.php:155
+msgid "December"
+msgstr "Tháng 12"
+
+#: adrotate-statistics.php:164
+msgid "Previous"
+msgstr "Trước"
+
+#: adrotate-statistics.php:166 dashboard/publisher/statistics-advert.php:66
+#: dashboard/publisher/statistics-group.php:73
+#: dashboard/publisher/statistics-main.php:48
+msgid "This month"
+msgstr "Tháng này"
+
+#: adrotate-statistics.php:167
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: adrotate-statistics.php:225
+msgid "No data to show!"
+msgstr "Không có dữ liệu để hiển thị!"
+
+#: adrotate-statistics.php:302 adrotate-statistics.php:303
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: adrotate-widget.php:134
+msgid "Title (optional):"
+msgstr "Tiêu đề (không bắt buộc):"
+
+#: adrotate-widget.php:137
+msgid "HTML will be stripped out."
+msgstr "HTML sẽ bị loại bỏ."
+
+#: adrotate-widget.php:140
+msgid "Description (optional):"
+msgstr "Mô tả (không bắt buộc):"
+
+#: adrotate-widget.php:143
+msgid "What is this widget used for? (Not parsed, HTML will be stripped out.)"
+msgstr ""
+"Widget này được sử dụng để làm gì? (Không được phân tích cú pháp, HTML sẽ bị "
+"xóa.)"
+
+#: adrotate-widget.php:146
+msgid "Type:"
+msgstr "Loại:"
+
+#: adrotate-widget.php:148
+msgid "Advert - Use Advert ID"
+msgstr "Quảng cáo - Sử dụng ID quảng cáo"
+
+#: adrotate-widget.php:149
+msgid "Group - Use group ID"
+msgstr "Nhóm - Sử dụng ID nhóm"
+
+#: adrotate-widget.php:152
+msgid "Choose what you want to use this widget for"
+msgstr "Chọn những gì bạn muốn sử dụng tiện ích này cho"
+
+#: adrotate-widget.php:155
+msgid "ID:"
+msgstr ""
+
+#: adrotate-widget.php:158
+msgid "Fill in the ID of the type you want to display!"
+msgstr "Điền vào ID của loại bạn muốn hiển thị!"
+
+#: adrotate.php:105
+msgid "General Info"
+msgstr "Thông tin chung"
+
+#: adrotate.php:106
+msgid "AdRotate Pro"
+msgstr ""
+
+#: adrotate.php:107
+msgid "Manage Adverts"
+msgstr "Quản lý quảng cáo"
+
+#: adrotate.php:108 dashboard/publisher/groups-main.php:12
+msgid "Manage Groups"
+msgstr "Quản lý nhóm"
+
+#: adrotate.php:109 dashboard/publisher/schedules-main.php:12
+msgid "Manage Schedules"
+msgstr "Quản lý lịch"
+
+#: adrotate.php:110 adrotate.php:390 dashboard/adrotatepro.php:69
+#: dashboard/publisher/adverts-edit.php:172
+#: dashboard/publisher/statistics-main.php:23
+#: dashboard/settings/statistics.php:17
+msgid "Statistics"
+msgstr "Số liệu thống kê"
+
+#: adrotate.php:111
+msgid "Manage Media"
+msgstr "Quản lý phương tiện truyền thông"
+
+#: adrotate.php:112 adrotate.php:471
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: adrotate.php:113
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: adrotate.php:134
+msgid "AdRotate Info"
+msgstr "Thông tin AdRotate"
+
+#: adrotate.php:192
+msgid "Advert Management"
+msgstr "Quản lý quảng cáo"
+
+#: adrotate.php:252 adrotate.php:320
+msgid "Manage"
+msgstr "Quản lý"
+
+#: adrotate.php:253
+msgid "Generator"
+msgstr ""
+
+#: adrotate.php:254 adrotate.php:321
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: adrotate.php:314
+msgid "Group Management"
+msgstr "Quản lý nhóm"
+
+#: adrotate.php:351
+msgid "Schedules"
+msgstr "Lịch trình"
+
+#: adrotate.php:432
+msgid "Media and Assets"
+msgstr "Truyền thông và Tài sản"
+
+#: adrotate.php:436
+msgid ""
+"Upload images to the AdRotate Pro banners folder from here. This is useful "
+"if you have HTML5 adverts containing multiple files."
+msgstr ""
+"Tải hình ảnh lên thư mục biểu ngữ AdRotate Pro từ đây. Điều này hữu ích nếu "
+"bạn có quảng cáo HTML5 chứa nhiều tệp."
+
+#: adrotate.php:436 dashboard/publisher/schedules-main.php:13
+msgid "Get more features"
+msgstr "Nhận nhiều tính năng hơn"
+
+#: adrotate.php:496
+msgid "AdRotate Settings"
+msgstr "Cài đặt quảng cáo"
+
+#: adrotate.php:501 dashboard/publisher/statistics-main.php:28
+msgid "General"
+msgstr "Chung"
+
+#: adrotate.php:502 dashboard/settings/notifications.php:18
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: adrotate.php:503 dashboard/publisher/adverts-disabled.php:59
+#: dashboard/publisher/adverts-error.php:56
+#: dashboard/publisher/adverts-main.php:66
+#: dashboard/publisher/groups-main.php:70
+msgid "Stats"
+msgstr "Số liệu thống kê"
+
+#: adrotate.php:504 dashboard/publisher/adverts-edit.php:372
+#: dashboard/publisher/groups-edit.php:193
+#: dashboard/settings/advertisers.php:38
+msgid "Geo Targeting"
+msgstr "Nhắm mục tiêu theo địa lý"
+
+#: adrotate.php:505 dashboard/settings/notifications.php:70
+msgid "Advertisers"
+msgstr "Nhà quảng cáo"
+
+#: adrotate.php:506 dashboard/settings/roles.php:17
+msgid "Roles"
+msgstr "Vai trò"
+
+#: adrotate.php:507
+msgid "Misc"
+msgstr ""
+
+#: adrotate.php:508 dashboard/settings/maintenance.php:16
+msgid "Maintenance"
+msgstr "Bảo trì"
+
+#: dashboard/adrotatepro.php:18
+msgid "Mobile campaigns"
+msgstr "Chiến dịch di động"
+
+#: dashboard/adrotatepro.php:21
+msgid ""
+"Target mobile users with ease and show the right adverts to smartphones, "
+"tablets and computers. Mix and match as you please and offer adverts that "
+"suit the device or mobile operating system. Create as many mobile adverts as "
+"you want without effort and with a few easy to use options they show up "
+"where you want them to!"
+msgstr ""
+"Nhắm mục tiêu người dùng di động dễ dàng và hiển thị quảng cáo phù hợp với "
+"điện thoại thông minh, máy tính bảng và máy tính. Trộn và kết hợp khi bạn "
+"muốn và cung cấp quảng cáo phù hợp với thiết bị hoặc hệ điều hành di động. "
+"Tạo nhiều quảng cáo di động như bạn muốn mà không cần nỗ lực và với một vài "
+"tùy chọn dễ sử dụng, chúng hiển thị ở nơi bạn muốn!"
+
+#: dashboard/adrotatepro.php:26
+msgid "Schedule all campaigns with ease"
+msgstr "Lên lịch tất cả các chiến dịch một cách dễ dàng"
+
+#: dashboard/adrotatepro.php:29
+msgid ""
+"Schedule your adverts and set up advertising campaigns based on dates you or "
+"your advertisers specify without hassle. Seasonal adverts, weekly adverts, "
+"specific days in the week. You name it, AdRotate schedules it. This makes "
+"planning your revenue stream very flexible. You can set one or many "
+"schedules for adverts."
+msgstr ""
+"Lên lịch quảng cáo của bạn và thiết lập các chiến dịch quảng cáo dựa trên "
+"ngày bạn hoặc nhà quảng cáo của bạn chỉ định mà không gặp rắc rối. Quảng cáo "
+"theo mùa, quảng cáo hàng tuần, ngày cụ thể trong tuần. Bạn đặt tên cho nó, "
+"AdRotate lên lịch cho nó. Điều này làm cho việc lập kế hoạch dòng doanh thu "
+"của bạn rất linh hoạt. Bạn có thể đặt một hoặc nhiều lịch trình cho quảng "
+"cáo."
+
+#: dashboard/adrotatepro.php:34
+msgid "Satisfy your advertisers"
+msgstr "Đáp ứng các nhà quảng cáo của bạn"
+
+#: dashboard/adrotatepro.php:37
+msgid ""
+"Set up advertisers and let them log in to their statistics or even create "
+"their own adverts. Created adverts go into a moderation queue for your staff "
+"to review. Advertisers have access to their own little dashboard where they "
+"can see their adverts performance."
+msgstr ""
+"Thiết lập nhà quảng cáo và cho phép họ đăng nhập vào số liệu thống kê của họ "
+"hoặc thậm chí tạo quảng cáo của riêng họ. Quảng cáo đã tạo đi vào hàng đợi "
+"kiểm duyệt để nhân viên của bạn xem xét. Các nhà quảng cáo có quyền truy cập "
+"vào bảng điều khiển nhỏ của riêng họ, nơi họ có thể thấy hiệu suất quảng cáo "
+"của họ."
+
+#: dashboard/adrotatepro.php:42
+msgid "Get Fast Support almost all year round"
+msgstr "Nhận hỗ trợ nhanh gần như quanh năm"
+
+#: dashboard/adrotatepro.php:45
+msgid ""
+"When you activate your AdRotate Pro license you can use the more personal "
+"email support. No more queueing up in the forums. AdRotate support takes "
+"priority over the forums and is checked once or twice a day. Get a solution "
+"(usually) within two business days."
+msgstr ""
+"Khi bạn kích hoạt giấy phép AdRotate Pro, bạn có thể sử dụng hỗ trợ email cá "
+"nhân nhiều hơn. Không còn xếp hàng trong các diễn đàn. Hỗ trợ AdRotate ưu "
+"tiên trên các diễn đàn và được kiểm tra một hoặc hai lần một ngày. Nhận một "
+"giải pháp (thường) trong vòng hai ngày làm việc."
+
+#: dashboard/adrotatepro.php:53
+msgid "Localize your ad campaigns with Geo Targeting"
+msgstr ""
+"Bản địa hóa các chiến dịch quảng cáo của bạn với Nhắm mục tiêu theo địa lý"
+
+#: dashboard/adrotatepro.php:56
+msgid ""
+"Go nationwide or global with localized adverts for your various audiences. "
+"Set up adverts for countries and cities and sell impressions per general "
+"area. Connect your site to MaxMind GeoIP2: Precision or AdRotate Geo. "
+"AdRotate Geo is an exclusive Geo Lookup service for AdRotate Pro users."
+msgstr ""
+"Đi khắp cả nước hoặc toàn cầu với các quảng cáo được bản địa hóa cho nhiều "
+"đối tượng khác nhau của bạn. Thiết lập quảng cáo cho các quốc gia và thành "
+"phố và bán số lần hiển thị trên mỗi khu vực chung. Kết nối trang web của bạn "
+"với MaxMind GeoIP2: Chính xác hoặc AdRotate Geo. AdRotate Geo là một dịch vụ "
+"Tra cứu Geo độc quyền cho người dùng AdRotate Pro."
+
+#: dashboard/adrotatepro.php:61
+msgid "Avoid adblockers"
+msgstr "Tránh quảng cáo"
+
+#: dashboard/adrotatepro.php:64
+msgid ""
+"Try and avoid adblockers so your adverts get the exposure you want them to "
+"have. AdRotate Pro offers some advanced tools to deceive adblockers so your "
+"adverts are less likely to be removed. Of-course make sure you create your "
+"adverts smartly so these features reach their full potential!"
+msgstr ""
+"Hãy thử và tránh các trình chặn quảng cáo để quảng cáo của bạn có được sự "
+"tiếp xúc mà bạn muốn họ có. AdRotate Pro cung cấp một số công cụ nâng cao để "
+"đánh lừa các trình chặn quảng cáo để quảng cáo của bạn ít có khả năng bị "
+"xóa. Tất nhiên, đảm bảo bạn tạo quảng cáo của mình một cách thông minh để "
+"các tính năng này đạt được tiềm năng đầy đủ của chúng!"
+
+#: dashboard/adrotatepro.php:72
+msgid ""
+"Get statistics in AdRotate Pro. Similar to the free version you can track "
+"stats in AdRotate itself and use all kinds of extra scheduling options. Or "
+"you can track stats in Google Analytics and see more in-depth information "
+"which relates to your visitors that way."
+msgstr ""
+"Nhận số liệu thống kê trong AdRotate Pro. Tương tự như phiên bản miễn phí, "
+"bạn có thể theo dõi số liệu thống kê trong chính AdRotate và sử dụng tất cả "
+"các loại tùy chọn lập lịch bổ sung. Hoặc bạn có thể theo dõi số liệu thống "
+"kê trong Google Analytics và xem thêm thông tin chuyên sâu liên quan đến "
+"khách truy cập của bạn theo cách đó."
+
+#: dashboard/adrotatepro.php:77
+msgid "Stay up-to-date with notifications"
+msgstr "Luôn cập nhật thông báo"
+
+#: dashboard/adrotatepro.php:80
+msgid ""
+"Stay in touch with Email notifications. Have AdRotate send you an alert when "
+"adverts expire or need your attention. Get notified when adverts expire, "
+"have errors or when advertisers create new adverts. Select up to three email "
+"addresses to be notified. Never miss an expiration date again."
+msgstr ""
+"Stay in touch with Email notifications. Have AdRotate send you an alert when "
+"adverts expire or need your attention. Get notified when adverts expire, "
+"have errors or when advertisers create new adverts. Select up to three email "
+"addresses to be notified. Never miss an expiration date again."
+
+#: dashboard/info.php:25
+msgid "At a Glance"
+msgstr "Nhìn thoáng qua"
+
+#: dashboard/info.php:30
+msgid "Your setup"
+msgstr "Thiết lập của bạn"
+
+#: dashboard/info.php:31
+msgid "Adverts that need you"
+msgstr "Quảng cáo cần bạn"
+
+#: dashboard/info.php:37 dashboard/publisher/adverts-edit.php:465
+#: dashboard/publisher/groups-main.php:34
+#: dashboard/publisher/schedules-main.php:34
+#: dashboard/publisher/statistics-main.php:35
+msgid "Adverts"
+msgstr "Quảng cáo"
+
+#: dashboard/info.php:38
+msgid "(Almost) Expired"
+msgstr "(Hầu hết) Đã hết hạn"
+
+#: dashboard/info.php:41
+msgid "Groups"
+msgstr "Các nhóm"
+
+#: dashboard/info.php:42
+msgid "Have errors"
+msgstr "Có lỗi"
+
+#: dashboard/info.php:50
+msgid "AdRotate Banner Manager"
+msgstr ""
+
+#: dashboard/info.php:52
+msgid "Support AdRotate Banner Manager"
+msgstr "Hỗ trợ AdRotate Banner Manager"
+
+#: dashboard/info.php:53
+msgid ""
+"Consider writing a review or making a donation if you like the plugin or if "
+"you find the plugin useful. Thanks for your support!"
+msgstr ""
+"Cân nhắc viết đánh giá hoặc quyên góp nếu bạn thích plugin hoặc nếu bạn thấy "
+"plugin hữu ích. Cảm ơn sự hỗ trợ của bạn!"
+
+#: dashboard/info.php:56
+msgid "Plugins and services"
+msgstr "Plugin và dịch vụ"
+
+#: dashboard/info.php:62 dashboard/support.php:47
+msgid "HTML5 Advert setup"
+msgstr "Thiết lập quảng cáo HTML5"
+
+#: dashboard/info.php:63 dashboard/info.php:73
+msgid "Professional service"
+msgstr "Dịch vụ chuyên nghiệp"
+
+#: dashboard/info.php:66
+msgid ""
+"Did you get a HTML5 advert and can’t get it to work in AdRotate Pro? I’ll "
+"install and configure it for you."
+msgstr ""
+"Bạn đã nhận được một quảng cáo HTML5 và có thể làm cho nó hoạt động trong "
+"AdRotate Pro không? Tôi sẽ cài đặt và cấu hình nó cho bạn."
+
+#: dashboard/info.php:72
+msgid "WP Maintenance"
+msgstr "Bảo trì WP"
+
+#: dashboard/info.php:76
+msgid ""
+"Get all the latest updates for WordPress and plugins. Maintenance, delete "
+"spam and clean up files."
+msgstr ""
+"Nhận tất cả các bản cập nhật mới nhất cho WordPress và plugin. Bảo trì, xóa "
+"thư rác và dọn dẹp các tập tin."
+
+#: dashboard/info.php:82
+msgid "Single Page Checkout"
+msgstr "Thanh toán một trang"
+
+#: dashboard/info.php:83
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: dashboard/info.php:86
+msgid ""
+"Merge your cart and checkout pages into one single page in seconds with no "
+"setup required at all."
+msgstr ""
+"Hợp nhất giỏ hàng của bạn và các trang thanh toán thành một trang duy nhất "
+"trong vài giây mà không cần thiết lập gì cả."
+
+#: dashboard/info.php:98
+msgid "News & Updates"
+msgstr "Tin tức và cập nhật"
+
+#: dashboard/info.php:113
+msgid "Buy AdRotate Professional"
+msgstr "Mua AdRotate Pro"
+
+#: dashboard/info.php:115
+msgid ""
+"AdRotate Professional has a lot more functions for even better advertising "
+"management. Check out the feature comparison tab on any of the product pages "
+"to see what AdRotate Pro has to offer for you!"
+msgstr ""
+"AdRotate Professional có nhiều chức năng hơn để quản lý quảng cáo tốt hơn "
+"nữa. Kiểm tra tab so sánh tính năng trên bất kỳ trang sản phẩm nào để xem "
+"AdRotate Pro cung cấp cho bạn những gì!"
+
+#: dashboard/info.php:117
+msgid "Single License"
+msgstr "Giấy phép đơn"
+
+#: dashboard/info.php:117
+msgid "Use on ONE WordPress installation."
+msgstr "Sử dụng trên MỘT cài đặt WordPress."
+
+#: dashboard/info.php:117 dashboard/info.php:118 dashboard/info.php:119
+#: dashboard/info.php:120
+msgid "Buy now"
+msgstr "Mua ngay"
+
+#: dashboard/info.php:118
+msgid "Duo License"
+msgstr "Giấy phép đôi"
+
+#: dashboard/info.php:118
+msgid "Use on TWO WordPress installations."
+msgstr "Sử dụng trên HAI cài đặt WordPress."
+
+#: dashboard/info.php:119
+msgid "Multi License"
+msgstr "Nhiều giấy phép"
+
+#: dashboard/info.php:119
+msgid "Use on up to FIVE WordPress installations."
+msgstr "Sử dụng trên tối đa 5 cài đặt WordPress."
+
+#: dashboard/info.php:120
+msgid "Developer License"
+msgstr "Giấy phép phát triển"
+
+#: dashboard/info.php:120
+msgid "Use on up to a HUNDRED WordPress installations and/or networks."
+msgstr "Sử dụng trên tối đa các cài đặt và / hoặc mạng HUNDRED WordPress."
+
+#: dashboard/info.php:131
+msgid "Advertising Partners & Affiliates"
+msgstr "Đối tác quảng cáo & chi nhánh"
+
+#: dashboard/info.php:132
+msgid ""
+"A selection of quality advertiser networks and useful products. If you need "
+"adverts or just want more or more diverse adverts. Check out these great "
+"options!"
+msgstr ""
+"Một lựa chọn các mạng quảng cáo chất lượng và các sản phẩm hữu ích. Nếu bạn "
+"cần quảng cáo hoặc chỉ muốn quảng cáo đa dạng hơn hoặc đa dạng hơn. Kiểm tra "
+"các tùy chọn tuyệt vời!"
+
+#: dashboard/info.php:139
+msgid "Join the Media.net advertising network"
+msgstr "Tham gia mạng quảng cáo Media.net"
+
+#: dashboard/info.php:155
+msgid "DropBox online storage solutions"
+msgstr "Giải pháp lưu trữ trực tuyến DropBox"
+
+#: dashboard/info.php:167 dashboard/publisher/adverts-edit.php:233
+msgid "Sign up with Blind Ferret"
+msgstr "Đăng ký với Blind Ferret"
+
+#: dashboard/info.php:179
+msgid "Namecheap SSL Certificates"
+msgstr "Chứng chỉ SSL Namecheap"
+
+#: dashboard/publisher/adverts-disabled.php:15
+msgid "Disabled Adverts"
+msgstr "Quảng cáo bị vô hiệu hóa"
+
+#: dashboard/publisher/adverts-disabled.php:20
+#: dashboard/publisher/adverts-error.php:19
+#: dashboard/publisher/adverts-main.php:20
+#: dashboard/publisher/groups-main.php:20
+#: dashboard/publisher/schedules-main.php:21
+msgid "Bulk Actions"
+msgstr "Hành động số lượng lớn"
+
+#: dashboard/publisher/adverts-disabled.php:21
+#: dashboard/publisher/adverts-edit.php:181
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: dashboard/publisher/adverts-disabled.php:22
+#: dashboard/publisher/adverts-error.php:21
+#: dashboard/publisher/adverts-main.php:22 dashboard/publisher/media.php:60
+msgid "Delete"
+msgstr "Xóa"
+
+#: dashboard/publisher/adverts-disabled.php:23
+#: dashboard/publisher/adverts-error.php:22
+#: dashboard/publisher/adverts-main.php:23
+msgid "Reset stats"
+msgstr "Đặt lại số liệu thống kê"
+
+#: dashboard/publisher/adverts-disabled.php:25
+#: dashboard/publisher/adverts-error.php:29
+#: dashboard/publisher/adverts-main.php:30
+#: dashboard/publisher/groups-main.php:24
+#: dashboard/publisher/schedules-main.php:22
+msgid "Go"
+msgstr "Đi"
+
+#: dashboard/publisher/adverts-disabled.php:35
+#: dashboard/publisher/adverts-edit.php:463
+#: dashboard/publisher/adverts-error.php:39
+#: dashboard/publisher/adverts-main.php:39
+#: dashboard/publisher/groups-edit.php:347
+#: dashboard/publisher/groups-main.php:32
+#: dashboard/publisher/schedules-main.php:31
+msgid "ID"
+msgstr ""
+
+#: dashboard/publisher/adverts-disabled.php:36
+#: dashboard/publisher/adverts-error.php:41
+#: dashboard/publisher/adverts-main.php:40
+#: dashboard/publisher/schedules-main.php:32
+msgid "Start / End"
+msgstr "Bắt đầu / kết thúc"
+
+#: dashboard/publisher/adverts-disabled.php:37
+#: dashboard/publisher/adverts-edit.php:115
+#: dashboard/publisher/adverts-edit.php:464
+#: dashboard/publisher/adverts-error.php:40
+#: dashboard/publisher/adverts-main.php:41
+#: dashboard/publisher/groups-edit.php:53
+#: dashboard/publisher/groups-edit.php:348
+#: dashboard/publisher/groups-main.php:33 dashboard/publisher/media.php:30
+#: dashboard/publisher/schedules-main.php:33
+msgid "Name"
+msgstr "Tên"
+
+#: dashboard/publisher/adverts-disabled.php:39
+#: dashboard/publisher/adverts-main.php:43
+#: dashboard/publisher/groups-edit.php:352
+#: dashboard/publisher/groups-main.php:36
+msgid "Shown"
+msgstr "Cho xem"
+
+#: dashboard/publisher/adverts-disabled.php:40
+#: dashboard/publisher/adverts-main.php:45
+#: dashboard/publisher/groups-edit.php:353
+#: dashboard/publisher/groups-main.php:38
+#: dashboard/publisher/statistics-advert.php:52
+#: dashboard/publisher/statistics-advert.php:58
+#: dashboard/publisher/statistics-advert.php:72
+#: dashboard/publisher/statistics-advert.php:78
+#: dashboard/publisher/statistics-advert.php:99
+#: dashboard/publisher/statistics-group.php:59
+#: dashboard/publisher/statistics-group.php:65
+#: dashboard/publisher/statistics-group.php:79
+#: dashboard/publisher/statistics-group.php:85
+#: dashboard/publisher/statistics-group.php:104
+#: dashboard/publisher/statistics-main.php:40
+#: dashboard/publisher/statistics-main.php:54
+#: dashboard/publisher/statistics-main.php:58
+#: dashboard/publisher/statistics-main.php:75
+msgid "Clicks"
+msgstr "Nhấp chuột"
+
+#: dashboard/publisher/adverts-disabled.php:41
+#: dashboard/publisher/adverts-main.php:47
+#: dashboard/publisher/statistics-advert.php:53
+#: dashboard/publisher/statistics-advert.php:59
+#: dashboard/publisher/statistics-advert.php:73
+#: dashboard/publisher/statistics-advert.php:79
+#: dashboard/publisher/statistics-advert.php:100
+#: dashboard/publisher/statistics-group.php:60
+#: dashboard/publisher/statistics-group.php:66
+#: dashboard/publisher/statistics-group.php:80
+#: dashboard/publisher/statistics-group.php:86
+#: dashboard/publisher/statistics-group.php:105
+#: dashboard/publisher/statistics-main.php:41
+#: dashboard/publisher/statistics-main.php:55
+#: dashboard/publisher/statistics-main.php:59
+#: dashboard/publisher/statistics-main.php:76
+msgid "CTR"
+msgstr ""
+
+#: dashboard/publisher/adverts-disabled.php:59
+#: dashboard/publisher/adverts-error.php:56
+#: dashboard/publisher/adverts-main.php:66
+#: dashboard/publisher/groups-main.php:70
+msgid "Edit"
+msgstr "Sửa"
+
+#: dashboard/publisher/adverts-disabled.php:59
+#: dashboard/publisher/adverts-error.php:56
+#: dashboard/publisher/adverts-main.php:66
+msgid "Groups:"
+msgstr "Các nhóm:"
+
+#: dashboard/publisher/adverts-edit.php:53
+msgid "The AdCode cannot be empty!"
+msgstr "AdCode không thể để trống!"
+
+#: dashboard/publisher/adverts-edit.php:56
+msgid ""
+"You did not use %asset% (or %image%) in your AdCode but did select a file to "
+"use!"
+msgstr ""
+"Bạn đã không sử dụng %asset% (hoặc %image%) trong AdCode của mình nhưng đã "
+"chọn một tệp để sử dụng!"
+
+#: dashboard/publisher/adverts-edit.php:59
+msgid ""
+"You did use %asset% (or %image%) in your AdCode but did not select a file to "
+"use!"
+msgstr ""
+"Bạn đã sử dụng %asset% (hoặc %image%) trong AdCode của mình nhưng không chọn "
+"tệp để sử dụng!"
+
+#: dashboard/publisher/adverts-edit.php:62
+msgid ""
+"There is a problem saving the image. Please reset your image and re-save the "
+"ad!"
+msgstr ""
+"Có một vấn đề lưu hình ảnh. Vui lòng đặt lại hình ảnh của bạn và lưu lại "
+"quảng cáo!"
+
+#: dashboard/publisher/adverts-edit.php:65
+msgid "Tracking is enabled but no valid link/tag was found in the adcode!"
+msgstr ""
+"Theo dõi được bật nhưng không tìm thấy liên kết / thẻ hợp lệ trong mã quảng "
+"cáo!"
+
+#: dashboard/publisher/adverts-edit.php:70
+msgid ""
+"AdRotate cannot find an error but the ad is marked erroneous, try re-saving "
+"the ad!"
+msgstr ""
+"AdRotate không thể tìm thấy lỗi nhưng quảng cáo được đánh dấu sai, hãy thử "
+"lưu lại quảng cáo!"
+
+#: dashboard/publisher/adverts-edit.php:73
+msgid "This ad is expired and currently not shown on your website!"
+msgstr ""
+"Quảng cáo này đã hết hạn và hiện không được hiển thị trên trang web của bạn!"
+
+#: dashboard/publisher/adverts-edit.php:76
+msgid "The ad will expire in less than 2 days!"
+msgstr "Quảng cáo sẽ hết hạn sau chưa đầy 2 ngày!"
+
+#: dashboard/publisher/adverts-edit.php:79
+msgid "This ad will expire in less than 7 days!"
+msgstr "Quảng cáo này sẽ hết hạn sau chưa đầy 7 ngày!"
+
+#: dashboard/publisher/adverts-edit.php:82
+msgid "This ad has been disabled and does not rotate on your site!"
+msgstr ""
+"Quảng cáo này đã bị vô hiệu hóa và không xoay vòng trên trang web của bạn!"
+
+#: dashboard/publisher/adverts-edit.php:107
+msgid "New Advert"
+msgstr "Quảng cáo mới"
+
+#: dashboard/publisher/adverts-edit.php:109
+msgid "Edit Advert"
+msgstr "Chỉnh sửa quảng cáo"
+
+#: dashboard/publisher/adverts-edit.php:124
+msgid "AdCode"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:129
+msgid "Basic Examples:"
+msgstr "Ví dụ cơ bản:"
+
+#: dashboard/publisher/adverts-edit.php:130
+msgid "Click any of the examples to use it."
+msgstr "Nhấp vào bất kỳ ví dụ để sử dụng nó."
+
+#: dashboard/publisher/adverts-edit.php:139
+msgid "Useful tags"
+msgstr "Thẻ hữu ích"
+
+#: dashboard/publisher/adverts-edit.php:141
+msgid "Insert the advert ID Number."
+msgstr "Chèn số ID quảng cáo."
+
+#: dashboard/publisher/adverts-edit.php:141
+msgid "Required when selecting a asset below."
+msgstr "Cần thiết khi chọn một tài sản dưới đây."
+
+#: dashboard/publisher/adverts-edit.php:141
+msgid "Insert the advert name."
+msgstr "Chèn tên quảng cáo."
+
+#: dashboard/publisher/adverts-edit.php:141
+msgid "Insert a random seed. Useful for DFP/DoubleClick type adverts."
+msgstr ""
+"Chèn một hạt giống ngẫu nhiên. Hữu ích cho quảng cáo loại DFP / DoubleClick."
+
+#: dashboard/publisher/adverts-edit.php:141
+msgid "Add inside the <a> tag to open advert in a new window."
+msgstr "Thêm vào bên trong thẻ <a> để mở quảng cáo trong một cửa sổ mới."
+
+#: dashboard/publisher/adverts-edit.php:141
+msgid "Add inside the <a> tag to tell crawlers to ignore this link"
+msgstr ""
+"Thêm vào bên trong thẻ <a> để thông báo cho các trình thu thập thông tin bỏ "
+"qua liên kết này"
+
+#: dashboard/publisher/adverts-edit.php:141
+msgid ""
+"Place the cursor in your AdCode where you want to add any of these tags and "
+"click to add it."
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:146
+msgid "Preview"
+msgstr "Xem trước"
+
+#: dashboard/publisher/adverts-edit.php:149
+msgid ""
+"Note: While this preview is an accurate one, it might look different then it "
+"does on the website."
+msgstr ""
+"Lưu ý: Mặc dù bản xem trước này là một bản chính xác, nhưng nó có thể trông "
+"khác với trang web."
+
+#: dashboard/publisher/adverts-edit.php:150
+msgid ""
+"This is because of CSS differences. Your themes CSS file is not active here!"
+msgstr ""
+"Điều này là do sự khác biệt CSS. Tệp CSS chủ đề của bạn không hoạt động ở "
+"đây!"
+
+#: dashboard/publisher/adverts-edit.php:155
+msgid "Banner asset"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:158
+msgid "WordPress media:"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:158
+msgid "Select Banner"
+msgstr "Chọn Banner"
+
+#: dashboard/publisher/adverts-edit.php:160
+msgid "- OR -"
+msgstr "- HOẶC -"
+
+#: dashboard/publisher/adverts-edit.php:162
+msgid "Banner folder:"
+msgstr "Thư mục Banner:"
+
+#: dashboard/publisher/adverts-edit.php:163
+msgid "No image selected"
+msgstr "Không có hình ảnh được chọn"
+
+#: dashboard/publisher/adverts-edit.php:167
+msgid "Use %asset% in the adcode instead of the file path."
+msgstr "Sử dụng %asset%  trong mã quảng cáo thay vì đường dẫn tệp."
+
+#: dashboard/publisher/adverts-edit.php:167
+msgid ""
+"Use either the text field or the dropdown. If the textfield has content that "
+"field has priority."
+msgstr ""
+"Sử dụng trường văn bản hoặc thả xuống. Nếu trường văn bản có nội dung trường "
+"đó được ưu tiên."
+
+#: dashboard/publisher/adverts-edit.php:174
+msgid "Enable click and impression tracking for this advert."
+msgstr "Cho phép theo dõi nhấp chuột và hiển thị cho quảng cáo này."
+
+#: dashboard/publisher/adverts-edit.php:175
+msgid ""
+"Note: Clicktracking does not work for Javascript adverts such as those "
+"provided by Google AdSense/DFP/DoubleClick. HTML5/Flash adverts are not "
+"always supported."
+msgstr ""
+"Lưu ý: Clicktracking không hoạt động đối với quảng cáo Javascript, chẳng hạn "
+"như quảng cáo được cung cấp bởi Google AdSense / DFP / DoubleClick. Quảng "
+"cáo HTML5 / Flash không phải lúc nào cũng được hỗ trợ."
+
+#: dashboard/publisher/adverts-edit.php:185
+msgid "Yes, this ad will be used"
+msgstr "Có, quảng cáo này sẽ được sử dụng"
+
+#: dashboard/publisher/adverts-edit.php:186
+msgid "No, do not show this ad anywhere"
+msgstr "Không, không hiển thị quảng cáo này ở bất cứ đâu"
+
+#: dashboard/publisher/adverts-edit.php:193
+#: dashboard/publisher/adverts-main.php:90
+#: dashboard/publisher/groups-main.php:89
+msgid "Get more features with AdRotate Pro."
+msgstr "Nhận nhiều tính năng hơn với AdRotate Pro."
+
+#: dashboard/publisher/adverts-edit.php:193
+#: dashboard/publisher/adverts-edit.php:288
+#: dashboard/publisher/adverts-edit.php:370
+#: dashboard/publisher/adverts-edit.php:434
+#: dashboard/publisher/adverts-main.php:90
+#: dashboard/publisher/groups-edit.php:216
+#: dashboard/publisher/groups-main.php:89 dashboard/publisher/media.php:73
+#: dashboard/publisher/schedules-main.php:89
+#: dashboard/publisher/statistics-advert.php:108
+#: dashboard/publisher/statistics-group.php:112
+#: dashboard/publisher/statistics-main.php:82
+msgid "Upgrade now"
+msgstr "Nâng cấp ngay bây giờ"
+
+#: dashboard/publisher/adverts-edit.php:196
+#: dashboard/publisher/adverts-edit.php:291
+#: dashboard/publisher/adverts-edit.php:453
+#: dashboard/publisher/adverts-edit.php:496
+msgid "Save Advert"
+msgstr "Lưu quảng cáo"
+
+#: dashboard/publisher/adverts-edit.php:197
+#: dashboard/publisher/adverts-edit.php:292
+#: dashboard/publisher/adverts-edit.php:454
+#: dashboard/publisher/adverts-edit.php:497
+#: dashboard/publisher/adverts-generator.php:143
+#: dashboard/publisher/groups-edit.php:163
+#: dashboard/publisher/groups-edit.php:317
+#: dashboard/publisher/groups-edit.php:411
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: dashboard/publisher/adverts-edit.php:200
+#: dashboard/publisher/adverts-edit.php:436
+#: dashboard/publisher/groups-edit.php:145
+#: dashboard/publisher/groups-edit.php:299
+msgid "Usage"
+msgstr "Sử dụng"
+
+#: dashboard/publisher/adverts-edit.php:204
+#: dashboard/publisher/adverts-edit.php:440
+#: dashboard/publisher/groups-edit.php:149
+#: dashboard/publisher/groups-edit.php:303
+msgid "Widget"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:205
+#: dashboard/publisher/adverts-edit.php:441
+msgid ""
+"Drag the AdRotate widget to the sidebar where you want to place the advert "
+"and select the advert or the group the advert is in."
+msgstr ""
+"Kéo tiện ích AdRotate vào thanh bên nơi bạn muốn đặt quảng cáo và chọn quảng "
+"cáo hoặc nhóm quảng cáo đang ở."
+
+#: dashboard/publisher/adverts-edit.php:208
+#: dashboard/publisher/adverts-edit.php:444
+#: dashboard/publisher/groups-edit.php:153
+#: dashboard/publisher/groups-edit.php:307
+msgid "In a post or page"
+msgstr "Trong một bài viết hoặc trang"
+
+#: dashboard/publisher/adverts-edit.php:210
+#: dashboard/publisher/adverts-edit.php:446
+#: dashboard/publisher/groups-edit.php:155
+#: dashboard/publisher/groups-edit.php:309
+msgid "Directly in a theme"
+msgstr "Trực tiếp trong một chủ đề"
+
+#: dashboard/publisher/adverts-edit.php:220
+msgid "Get your adverts from Media.net"
+msgstr "Nhận quảng cáo của bạn từ Media.net"
+
+#: dashboard/publisher/adverts-edit.php:248
+msgid "Schedule your advert"
+msgstr "Lịch trình quảng cáo của bạn"
+
+#: dashboard/publisher/adverts-edit.php:249
+msgid ""
+"Time uses a 24 hour clock. When you're used to the AM/PM system keep this in "
+"mind: If the start or end time is after lunch, add 12 hours. 2PM is 14:00 "
+"hours. 6AM is 6:00 hours."
+msgstr ""
+"Thời gian sử dụng đồng hồ 24 giờ. Khi bạn đã quen với hệ thống AM / PM, hãy "
+"ghi nhớ điều này: Nếu thời gian bắt đầu hoặc kết thúc là sau bữa trưa, hãy "
+"thêm 12 giờ. 2 giờ chiều là 14:00 giờ. 6 giờ sáng là 6:00 giờ."
+
+#: dashboard/publisher/adverts-edit.php:253
+msgid "Start date"
+msgstr "Ngày bắt đầu"
+
+#: dashboard/publisher/adverts-edit.php:257
+msgid "End date"
+msgstr "Ngày kết thúc"
+
+#: dashboard/publisher/adverts-edit.php:263
+msgid "Start time"
+msgstr "Thời gian bắt đầu"
+
+#: dashboard/publisher/adverts-edit.php:270
+msgid "End time"
+msgstr "Thời gian kết thúc"
+
+#: dashboard/publisher/adverts-edit.php:280
+msgid "Maximum Clicks"
+msgstr "Số lần nhấp tối đa"
+
+#: dashboard/publisher/adverts-edit.php:281
+#: dashboard/publisher/adverts-edit.php:283
+msgid "Leave empty or 0 to skip this."
+msgstr "Để trống hoặc 0 để bỏ qua điều này."
+
+#: dashboard/publisher/adverts-edit.php:282
+msgid "Maximum Impressions"
+msgstr "Ấn tượng tối đa"
+
+#: dashboard/publisher/adverts-edit.php:288
+msgid ""
+"Create multiple and more advanced schedules for each advert with AdRotate "
+"Pro."
+msgstr ""
+"Tạo nhiều lịch trình nâng cao và nâng cao hơn cho mỗi quảng cáo với AdRotate "
+"Pro."
+
+#: dashboard/publisher/adverts-edit.php:295
+#: dashboard/publisher/groups-edit.php:166 dashboard/settings/statistics.php:27
+#: dashboard/settings/statistics.php:29
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: dashboard/publisher/adverts-edit.php:296
+#: dashboard/publisher/adverts-edit.php:373
+msgid "Available in AdRotate Pro!"
+msgstr "Có sẵn trong AdRotate Pro!"
+
+#: dashboard/publisher/adverts-edit.php:301
+msgid "Show to everyone"
+msgstr "Hiển thị với mọi người"
+
+#: dashboard/publisher/adverts-edit.php:303
+msgid "Disable this option to hide the advert from logged-in visitors."
+msgstr ""
+"Vô hiệu hóa tùy chọn này để ẩn quảng cáo khỏi khách truy cập đăng nhập."
+
+#: dashboard/publisher/adverts-edit.php:308
+#: dashboard/publisher/groups-edit.php:350
+msgid "Weight"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:311
+msgid "Few impressions"
+msgstr "Ít ấn tượng"
+
+#: dashboard/publisher/adverts-edit.php:316
+msgid "Less than average"
+msgstr "Ít hơn trung bình"
+
+#: dashboard/publisher/adverts-edit.php:321
+msgid "Normal impressions"
+msgstr "Ấn tượng bình thường"
+
+#: dashboard/publisher/adverts-edit.php:326
+msgid "More than average"
+msgstr "Hơn trung bình"
+
+#: dashboard/publisher/adverts-edit.php:331
+msgid "Many impressions"
+msgstr "Nhiều ấn tượng"
+
+#: dashboard/publisher/adverts-edit.php:336
+msgid "Mobile"
+msgstr "Di động"
+
+#: dashboard/publisher/adverts-edit.php:338
+msgid "Desktops/Laptops"
+msgstr "Máy tính để bàn / Máy tính xách tay"
+
+#: dashboard/publisher/adverts-edit.php:341
+msgid "Smartphones"
+msgstr "Điện thoại thông minh"
+
+#: dashboard/publisher/adverts-edit.php:344
+msgid "Tablets"
+msgstr "Máy tính bảng"
+
+#: dashboard/publisher/adverts-edit.php:347
+msgid ""
+"Also enable 'Mobile Support' in the group this advert goes in or 'Device' "
+"and 'Operating System' are ignored!"
+msgstr ""
+"Đồng thời bật 'Hỗ trợ di động' trong nhóm mà quảng cáo này đi vào hoặc "
+"'Thiết bị' và 'Hệ điều hành' bị bỏ qua!"
+
+#: dashboard/publisher/adverts-edit.php:347
+msgid ""
+"Operating system detection only detects iOS and Android, select 'Not Mobile/"
+"Other' for everything else."
+msgstr ""
+"Phát hiện hệ điều hành chỉ phát hiện iOS và Android, chọn 'Không di động / "
+"Khác' cho mọi thứ khác."
+
+#: dashboard/publisher/adverts-edit.php:351
+msgid "Mobile OS"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:353
+msgid "iOS"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:356
+msgid "Android"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:359
+msgid "Not mobile/Others"
+msgstr "Không di động / Người khác"
+
+#: dashboard/publisher/adverts-edit.php:363
+msgid "Auto-delete"
+msgstr "Tự động xóa"
+
+#: dashboard/publisher/adverts-edit.php:365
+msgid "Automatically delete the advert 1 day after it expires?"
+msgstr "Tự động xóa quảng cáo 1 ngày sau khi hết hạn?"
+
+#: dashboard/publisher/adverts-edit.php:365
+msgid ""
+"This is useful for short running campaigns that do not require attention "
+"after they finish."
+msgstr ""
+"Điều này hữu ích cho các chiến dịch chạy ngắn không cần chú ý sau khi hoàn "
+"thành."
+
+#: dashboard/publisher/adverts-edit.php:370
+msgid ""
+"With AdRotate Pro you can easily select which devices and mobile operating "
+"systems the advert should show on!"
+msgstr ""
+"Với AdRotate Pro, bạn có thể dễ dàng chọn thiết bị và hệ điều hành di động "
+"nào mà quảng cáo sẽ hiển thị trên!"
+
+#: dashboard/publisher/adverts-edit.php:373
+msgid ""
+"Assign the advert to a group and enable that group to use Geo Targeting."
+msgstr ""
+"Chỉ định quảng cáo cho một nhóm và cho phép nhóm đó sử dụng Nhắm mục tiêu "
+"theo địa lý."
+
+#: dashboard/publisher/adverts-edit.php:380
+msgid "Select Countries and or Regions"
+msgstr "Chọn quốc gia và hoặc khu vực"
+
+#: dashboard/publisher/adverts-edit.php:422
+msgid "Enter cities, metro IDs, States or State ISO codes"
+msgstr "Nhập thành phố, ID metro, mã tiểu bang hoặc tiểu bang ISO"
+
+#: dashboard/publisher/adverts-edit.php:425
+msgid "A comma separated list of items:"
+msgstr "Một danh sách các mục được phân tách bằng dấu phẩy:"
+
+#: dashboard/publisher/adverts-edit.php:425
+msgid ""
+"AdRotate does not check the validity of names so make sure you spell them "
+"correctly!"
+msgstr ""
+"AdRotate không kiểm tra tính hợp lệ của tên, vì vậy hãy đảm bảo bạn đánh vần "
+"chúng chính xác!"
+
+#: dashboard/publisher/adverts-edit.php:434
+msgid "Target your audience with Geo Targeting in AdRotate Pro"
+msgstr ""
+"Nhắm mục tiêu đối tượng của bạn với Nhắm mục tiêu theo địa lý trong AdRotate "
+"Pro"
+
+#: dashboard/publisher/adverts-edit.php:458
+msgid "Select Groups"
+msgstr "Chọn nhóm"
+
+#: dashboard/publisher/adverts-edit.php:474
+#: dashboard/publisher/groups-main.php:60
+#: dashboard/settings/geotargeting.php:54 dashboard/settings/statistics.php:25
+msgid "Default"
+msgstr "Mặc định"
+
+#: dashboard/publisher/adverts-edit.php:475
+#: dashboard/publisher/groups-main.php:61
+msgid "Dynamic"
+msgstr "Năng động"
+
+#: dashboard/publisher/adverts-edit.php:475
+#: dashboard/publisher/groups-main.php:61
+msgid "second rotation"
+msgstr "vòng quay thứ hai"
+
+#: dashboard/publisher/adverts-edit.php:476
+#: dashboard/publisher/groups-main.php:62
+msgid "Block"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:476
+#: dashboard/publisher/groups-main.php:62
+msgid "grid"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:477
+#: dashboard/publisher/groups-edit.php:223
+#: dashboard/publisher/groups-main.php:63
+msgid "Post Injection"
+msgstr ""
+
+#: dashboard/publisher/adverts-edit.php:478
+msgid "Geolocation"
+msgstr "Định vị địa lý"
+
+#: dashboard/publisher/adverts-edit.php:485
+#: dashboard/publisher/groups-edit.php:62
+#: dashboard/publisher/groups-main.php:70
+msgid "Mode"
+msgstr "Chế độ"
+
+#: dashboard/publisher/adverts-error.php:12
+msgid "Adverts that need attention"
+msgstr "Quảng cáo cần chú ý"
+
+#: dashboard/publisher/adverts-error.php:20
+#: dashboard/publisher/adverts-main.php:21
+msgid "Deactivate"
+msgstr "Vô hiệu hóa"
+
+#: dashboard/publisher/adverts-error.php:23
+#: dashboard/publisher/adverts-main.php:25
+msgid "-- Renew --"
+msgstr "-- Thay mới --"
+
+#: dashboard/publisher/adverts-error.php:24
+#: dashboard/publisher/adverts-main.php:26
+msgid "For 1 year"
+msgstr "Trong 1 năm"
+
+#: dashboard/publisher/adverts-error.php:25
+#: dashboard/publisher/adverts-main.php:27
+msgid "For 180 days"
+msgstr "Trong 180 ngày"
+
+#: dashboard/publisher/adverts-error.php:26
+#: dashboard/publisher/adverts-main.php:28
+msgid "For 30 days"
+msgstr "Trong 30 ngày"
+
+#: dashboard/publisher/adverts-error.php:27
+#: dashboard/publisher/adverts-main.php:29
+msgid "For 7 days"
+msgstr "Trong 7 ngày"
+
+#: dashboard/publisher/adverts-error.php:64
+msgid "Configuration errors"
+msgstr "Lỗi cấu hình"
+
+#: dashboard/publisher/adverts-error.php:65
+msgid "Expires soon"
+msgstr "Hết hạn sớm"
+
+#: dashboard/publisher/adverts-error.php:66
+#: dashboard/settings/maintenance.php:63
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+#: dashboard/publisher/adverts-generator.php:36
+msgid "Generate Advert Code"
+msgstr "Tạo mã quảng cáo"
+
+#: dashboard/publisher/adverts-generator.php:37
+msgid ""
+"Use the Generator if you have received a target url, banner image and/or "
+"some separate files with a description on how to use those. The AdRotate "
+"Generator will take your bits and pieces and try to generate a working "
+"adcode from it."
+msgstr ""
+"Sử dụng Trình tạo nếu bạn đã nhận được url đích, hình ảnh biểu ngữ và / hoặc "
+"một số tệp riêng biệt có mô tả về cách sử dụng các tệp đó. Trình tạo "
+"AdRotate sẽ lấy các bit và miếng của bạn và cố gắng tạo một mã quảng cáo "
+"hoạt động từ nó."
+
+#: dashboard/publisher/adverts-generator.php:39
+msgid ""
+"If you have a complete and working ad code / ad tag you do not use the "
+"Generator. You can simply paste that code in the AdCode field when creating "
+"your advert. For example as provided by Media.net or Google AdSense among "
+"others."
+msgstr ""
+"Nếu bạn có mã quảng cáo / thẻ quảng cáo đầy đủ và hoạt động, bạn không sử "
+"dụng Trình tạo. Bạn chỉ có thể dán mã đó vào trường AdCode khi tạo quảng cáo "
+"của mình. Ví dụ như được cung cấp bởi Media.net hoặc Google AdSense trong số "
+"những người khác."
+
+#: dashboard/publisher/adverts-generator.php:41
+msgid "Create your advert"
+msgstr "Tạo quảng cáo của bạn"
+
+#: dashboard/publisher/adverts-generator.php:42
+msgid ""
+"This is a regular advert consisting of an image and a link, made up from "
+"HTML code."
+msgstr ""
+"Đây là một quảng cáo thường xuyên bao gồm một hình ảnh và một liên kết, được "
+"tạo thành từ mã HTML."
+
+#: dashboard/publisher/adverts-generator.php:47
+msgid "Required"
+msgstr "Cần thiết"
+
+#: dashboard/publisher/adverts-generator.php:53
+msgid "Banner image"
+msgstr "Hình ảnh banner"
+
+#: dashboard/publisher/adverts-generator.php:57
+msgid "Select advert image"
+msgstr "Chọn hình ảnh quảng cáo"
+
+#: dashboard/publisher/adverts-generator.php:59
+msgid "Is your file not listed? Upload it to the banners folder using (s)FTP."
+msgstr ""
+"Là tập tin của bạn không được liệt kê? Tải nó lên thư mục banner bằng (s) "
+"FTP."
+
+#: dashboard/publisher/adverts-generator.php:64
+msgid "Target website"
+msgstr "Mục tiêu trang web"
+
+#: dashboard/publisher/adverts-generator.php:66
+msgid "Where does the person clicking the advert go?"
+msgstr "Người nhấp vào quảng cáo đi đâu?"
+
+#: dashboard/publisher/adverts-generator.php:73
+msgid "Viewports"
+msgstr "Chế độ xem"
+
+#: dashboard/publisher/adverts-generator.php:73
+#: dashboard/publisher/groups-edit.php:207
+#: dashboard/settings/notifications.php:48
+msgid "Available in AdRotate Pro"
+msgstr "Có sẵn trong AdRotate Pro"
+
+#: dashboard/publisher/adverts-generator.php:79
+msgid "Smaller Devices"
+msgstr "Thiết bị nhỏ hơn"
+
+#: dashboard/publisher/adverts-generator.php:83
+#: dashboard/publisher/adverts-generator.php:93
+#: dashboard/publisher/adverts-generator.php:103
+msgid "No file selected"
+msgstr "Không tài liệu nào được chọn"
+
+#: dashboard/publisher/adverts-generator.php:84
+msgid ""
+"Smaller smartphones and tablets with a viewport of up to 480px wide (up-to "
+"1440px resolution)."
+msgstr ""
+"Điện thoại thông minh và máy tính bảng nhỏ hơn với tầm nhìn rộng tới 480px "
+"(độ phân giải lên tới 1440px)."
+
+#: dashboard/publisher/adverts-generator.php:89
+msgid "Medium sized Devices"
+msgstr "Thiết bị cỡ trung bình"
+
+#: dashboard/publisher/adverts-generator.php:94
+msgid ""
+"Larger smartphones or Small tablets with a viewport of up to 960px wide (up-"
+"to 1536px resolution)."
+msgstr ""
+"Điện thoại thông minh lớn hơn hoặc máy tính bảng nhỏ với chế độ xem rộng tới "
+"960px (độ phân giải lên tới 1536px)."
+
+#: dashboard/publisher/adverts-generator.php:99
+msgid "Larger Devices"
+msgstr "Thiết bị lớn hơn"
+
+#: dashboard/publisher/adverts-generator.php:104
+msgid ""
+"Small laptops and Larger tablets with a viewport of up to 1280px wide (up-to "
+"2048px resolution)."
+msgstr ""
+"Máy tính xách tay nhỏ và máy tính bảng lớn hơn với tầm nhìn rộng tới 1280px "
+"(độ phân giải lên tới 2048px)."
+
+#: dashboard/publisher/adverts-generator.php:109
+#: dashboard/publisher/media.php:18
+msgid "Important:"
+msgstr "Quan trọng:"
+
+#: dashboard/publisher/adverts-generator.php:109
+msgid ""
+"All sizes are optional, but it is highly recommended to use at least the "
+"small and medium size. Devices with viewports greater than 1280px will use "
+"the full sized banner."
+msgstr ""
+"Tất cả các kích thước là tùy chọn, nhưng rất nên sử dụng ít nhất là kích "
+"thước vừa và nhỏ. Các thiết bị có chế độ xem lớn hơn 1280px sẽ sử dụng biểu "
+"ngữ có kích thước đầy đủ."
+
+#: dashboard/publisher/adverts-generator.php:109
+msgid ""
+"Are your files not listed? Upload them via the AdRotate Media Manager. For "
+"your convenience, use easy to use filenames."
+msgstr ""
+"Là tập tin của bạn không được liệt kê? Tải chúng lên thông qua Trình quản lý "
+"phương tiện AdRotate. Để thuận tiện cho bạn, sử dụng tên tập tin dễ sử dụng."
+
+#: dashboard/publisher/adverts-generator.php:114
+msgid "Optional"
+msgstr "Không bắt buộc"
+
+#: dashboard/publisher/adverts-generator.php:120
+msgid "Target window"
+msgstr "Cửa sổ mục tiêu"
+
+#: dashboard/publisher/adverts-generator.php:122
+msgid "Open the advert in a new window?"
+msgstr "Mở quảng cáo trong một cửa sổ mới?"
+
+#: dashboard/publisher/adverts-generator.php:122
+msgid "(Recommended)"
+msgstr "(Khuyến nghị)"
+
+#: dashboard/publisher/adverts-generator.php:126
+msgid "NoFollow"
+msgstr "Không theo dõi"
+
+#: dashboard/publisher/adverts-generator.php:128
+msgid "Tell crawlers and search engines not to follow the target website url?"
+msgstr ""
+"Yêu cầu trình thu thập thông tin và công cụ tìm kiếm không theo url trang "
+"web mục tiêu?"
+
+#: dashboard/publisher/adverts-generator.php:128
+#: dashboard/publisher/adverts-generator.php:134
+msgid "(Available in AdRotate Pro)"
+msgstr "(Có sẵn trong AdRotate Pro)"
+
+#: dashboard/publisher/adverts-generator.php:128
+msgid ""
+"Letting bots (Such as Googlebot) index paid links may negatively affect your "
+"SEO and PageRank."
+msgstr ""
+"Để các bot (như Googlebot) lập chỉ mục các liên kết có trả tiền có thể ảnh "
+"hưởng tiêu cực đến SEO và PageRank của bạn."
+
+#: dashboard/publisher/adverts-generator.php:132
+msgid "Alt and Title"
+msgstr "Alt và Tiêu đề"
+
+#: dashboard/publisher/adverts-generator.php:134
+msgid "Add an alt and title attribute based on the asset name?"
+msgstr "Thêm một thuộc tính alt và tiêu đề dựa trên tên tài sản?"
+
+#: dashboard/publisher/adverts-generator.php:134
+msgid ""
+"Some bots/crawlers use them as a descriptive measure to see what the code is "
+"about."
+msgstr ""
+"Một số bot / trình thu thập thông tin sử dụng chúng như một biện pháp mô tả "
+"để xem mã này nói về cái gì."
+
+#: dashboard/publisher/adverts-generator.php:142
+msgid "Generate and Configure Advert"
+msgstr "Tạo và cấu hình quảng cáo"
+
+#: dashboard/publisher/adverts-generator.php:143
+msgid "Always test your adverts before activating them."
+msgstr "Luôn kiểm tra quảng cáo của bạn trước khi kích hoạt chúng."
+
+#: dashboard/publisher/adverts-generator.php:146
+msgid "NOTE:"
+msgstr "GHI CHÚ:"
+
+#: dashboard/publisher/adverts-generator.php:146
+msgid ""
+"While the Code Generator has been tested and works, code generation, as "
+"always, is a interpretation of user input. If you provide the correct bits "
+"and pieces, a working advert may be generated. If you leave fields empty or "
+"insert the wrong info you probably end up with a broken advert."
+msgstr ""
+"Mặc dù Trình tạo mã đã được thử nghiệm và hoạt động, việc tạo mã, như mọi "
+"khi, là một cách giải thích đầu vào của người dùng. Nếu bạn cung cấp các bit "
+"và miếng chính xác, một quảng cáo hoạt động có thể được tạo ra. Nếu bạn để "
+"trống các trường hoặc chèn thông tin sai, bạn có thể kết thúc với một quảng "
+"cáo bị hỏng."
+
+#: dashboard/publisher/adverts-generator.php:146
+msgid ""
+"Based on your input and experiences later iterations of the Code Generator "
+"will be better and more feature rich."
+msgstr ""
+"Dựa trên đầu vào và kinh nghiệm của bạn, các lần lặp lại sau của Trình tạo "
+"mã sẽ tốt hơn và nhiều tính năng hơn."
+
+#: dashboard/publisher/adverts-main.php:12
+msgid "Active Adverts"
+msgstr "Quảng cáo hoạt động"
+
+#: dashboard/publisher/adverts-main.php:24
+msgid "Export to CSV"
+msgstr "Xuất sang CSV"
+
+#: dashboard/publisher/adverts-main.php:44
+#: dashboard/publisher/adverts-main.php:46
+#: dashboard/publisher/groups-main.php:37
+#: dashboard/publisher/groups-main.php:39
+#: dashboard/publisher/statistics-advert.php:44
+#: dashboard/publisher/statistics-group.php:51
+msgid "Today"
+msgstr "Hôm nay"
+
+#: dashboard/publisher/adverts-main.php:85
+msgid "No adverts created yet!"
+msgstr "Chưa có quảng cáo nào được tạo!"
+
+#: dashboard/publisher/groups-edit.php:45
+msgid "New Group"
+msgstr "Nhóm mới"
+
+#: dashboard/publisher/groups-edit.php:47
+msgid "Edit Group"
+msgstr "Sửa nhóm"
+
+#: dashboard/publisher/groups-edit.php:65
+msgid "Default - Show one ad at a time"
+msgstr "Mặc định - Hiển thị một quảng cáo tại một thời điểm"
+
+#: dashboard/publisher/groups-edit.php:66
+msgid "Dynamic Mode - Show a different ad every few seconds"
+msgstr "Chế độ động - Hiển thị một quảng cáo khác nhau cứ sau vài giây"
+
+#: dashboard/publisher/groups-edit.php:67
+msgid "Block Mode - Show a block of adverts"
+msgstr "Chế độ chặn - Hiển thị khối quảng cáo"
+
+#: dashboard/publisher/groups-edit.php:71
+msgid "Dynamic mode requires jQuery. You can enable this in AdRotate Settings."
+msgstr ""
+"Chế độ động yêu cầu jQuery. Bạn có thể kích hoạt tính năng này trong Cài đặt "
+"AdRotate."
+
+#: dashboard/publisher/groups-edit.php:75
+msgid "Advert size"
+msgstr "Kích thước quảng cáo"
+
+#: dashboard/publisher/groups-edit.php:77
+msgid "pixel(s) wide"
+msgstr "pixel(s) rộng"
+
+#: dashboard/publisher/groups-edit.php:77
+msgid "pixel(s) high."
+msgstr "pixel(s) cao."
+
+#: dashboard/publisher/groups-edit.php:80
+msgid ""
+"Define the maximum size of the adverts in pixels. Size can be 'auto' (Not "
+"recommended)."
+msgstr ""
+"Xác định kích thước tối đa của quảng cáo bằng pixel. Kích thước có thể là "
+"'tự động' (Không nên dùng)."
+
+#: dashboard/publisher/groups-edit.php:86
+msgid "Dynamic and Block Mode"
+msgstr "Chế độ động và khối"
+
+#: dashboard/publisher/groups-edit.php:90
+msgid "Block size"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:96
+msgid "rows"
+msgstr "hàng"
+
+#: dashboard/publisher/groups-edit.php:100
+msgid "columns"
+msgstr "cột"
+
+#: dashboard/publisher/groups-edit.php:103
+msgid "Block Mode"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:103
+msgid "Larger blocks will degrade your sites performance! Default: 2/2."
+msgstr ""
+"Các khối lớn hơn sẽ làm giảm hiệu suất trang web của bạn! Mặc định: 2/2."
+
+#: dashboard/publisher/groups-edit.php:107
+msgid "Automated refresh"
+msgstr "Làm mới tự động"
+
+#: dashboard/publisher/groups-edit.php:126
+msgid "seconds."
+msgstr "giây."
+
+#: dashboard/publisher/groups-edit.php:129
+#: dashboard/publisher/groups-edit.php:138
+msgid "Dynamic Mode"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:129
+msgid ""
+"Load a new advert in this interval without reloading the page. Default: 6."
+msgstr ""
+"Tải một quảng cáo mới trong khoảng thời gian này mà không cần tải lại trang. "
+"Mặc định: 6."
+
+#: dashboard/publisher/groups-edit.php:133
+msgid "Repeat impressions"
+msgstr "Lặp lại ấn tượng"
+
+#: dashboard/publisher/groups-edit.php:135
+msgid "Count impressions for every cycle of adverts?"
+msgstr "Đếm số lần hiển thị cho mỗi chu kỳ quảng cáo?"
+
+#: dashboard/publisher/groups-edit.php:138
+msgid ""
+"Uncheck this option to only count impressions for the first cycle of adverts."
+msgstr ""
+"Bỏ chọn tùy chọn này để chỉ tính số lần hiển thị cho chu kỳ quảng cáo đầu "
+"tiên."
+
+#: dashboard/publisher/groups-edit.php:143
+#: dashboard/publisher/groups-edit.php:216
+msgid "Get access to all features in AdRotate Pro."
+msgstr "Truy cập vào tất cả các tính năng trong AdRotate Pro."
+
+#: dashboard/publisher/groups-edit.php:143
+msgid "Upgrade today"
+msgstr "Nâng cấp ngay hôm nay"
+
+#: dashboard/publisher/groups-edit.php:150
+#: dashboard/publisher/groups-edit.php:304
+msgid ""
+"Drag the AdRotate widget to the sidebar you want it in, select \"Group of "
+"Adverts\" and enter ID"
+msgstr ""
+"Kéo tiện ích AdRotate vào thanh bên bạn muốn, chọn \"Nhóm quảng cáo\" và "
+"nhập ID"
+
+#: dashboard/publisher/groups-edit.php:162
+#: dashboard/publisher/groups-edit.php:316
+#: dashboard/publisher/groups-edit.php:410
+msgid "Save Group"
+msgstr "Lưu nhóm"
+
+#: dashboard/publisher/groups-edit.php:170
+msgid "Advert Margin"
+msgstr "Ký quỹ quảng cáo"
+
+#: dashboard/publisher/groups-edit.php:172
+msgid "pixel(s)"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:175
+msgid "A transparent area outside the advert in pixels. Default: 0."
+msgstr "Một khu vực trong suốt bên ngoài quảng cáo bằng pixel. Mặc định: 0."
+
+#: dashboard/publisher/groups-edit.php:175
+msgid "Set to 0 to disable."
+msgstr "Đặt thành 0 để tắt."
+
+#: dashboard/publisher/groups-edit.php:175
+msgid "Margins are automatically disabled for blocks where required."
+msgstr "Lợi nhuận được tự động vô hiệu hóa cho các khối khi cần thiết."
+
+#: dashboard/publisher/groups-edit.php:179
+msgid "Align the group"
+msgstr "Căn chỉnh nhóm"
+
+#: dashboard/publisher/groups-edit.php:182
+msgid "None (Default)"
+msgstr "Không có (Mặc định)"
+
+#: dashboard/publisher/groups-edit.php:183
+msgid "Left"
+msgstr "Trái"
+
+#: dashboard/publisher/groups-edit.php:184
+msgid "Right"
+msgstr "Phải"
+
+#: dashboard/publisher/groups-edit.php:185
+msgid "Center"
+msgstr "Giữa"
+
+#: dashboard/publisher/groups-edit.php:189
+msgid ""
+"Align the group in your post or page. Using 'center' may affect your margin "
+"setting. Not every theme supports this feature."
+msgstr ""
+"Căn chỉnh nhóm trong bài viết hoặc trang của bạn. Sử dụng 'trung tâm' có thể "
+"ảnh hưởng đến cài đặt lề của bạn. Không phải mọi chủ đề đều hỗ trợ tính năng "
+"này."
+
+#: dashboard/publisher/groups-edit.php:194
+msgid "Enable Geo Targeting for this group."
+msgstr "Kích hoạt tính năng nhắm mục tiêu theo địa lý cho nhóm này."
+
+#: dashboard/publisher/groups-edit.php:195
+msgid "Do not forget to tell the adverts for which areas they should show."
+msgstr "Đừng quên nói với quảng cáo về những khu vực họ nên hiển thị."
+
+#: dashboard/publisher/groups-edit.php:198
+msgid "Mobile Support"
+msgstr "Hỗ trợ di động"
+
+#: dashboard/publisher/groups-edit.php:199
+msgid "Enable mobile support for this group."
+msgstr "Enable mobile support for this group."
+
+#: dashboard/publisher/groups-edit.php:200
+msgid "Do not forget to put at least one mobile advert in this group."
+msgstr "Đừng quên đặt ít nhất một quảng cáo di động trong nhóm này."
+
+#: dashboard/publisher/groups-edit.php:203
+msgid "Fallback Group"
+msgstr "Nhóm dự phòng"
+
+#: dashboard/publisher/groups-edit.php:211
+msgid ""
+"Select another group to fall back on when all adverts are expired, not in "
+"the visitors geographic area or are otherwise unavailable."
+msgstr ""
+"Chọn một nhóm khác để quay lại khi tất cả các quảng cáo đã hết hạn, không "
+"nằm trong khu vực địa lý của khách truy cập hoặc không có sẵn."
+
+#: dashboard/publisher/groups-edit.php:227
+#: dashboard/publisher/groups-edit.php:264
+#: dashboard/settings/geotargeting.php:24
+msgid "Disabled"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:228
+#: dashboard/publisher/groups-edit.php:265
+msgid "Widget (Pro only)"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:229
+#: dashboard/publisher/groups-edit.php:266
+msgid "Before content"
+msgstr "Trước nội dung"
+
+#: dashboard/publisher/groups-edit.php:230
+#: dashboard/publisher/groups-edit.php:267
+msgid "After content"
+msgstr "Sau nội dung"
+
+#: dashboard/publisher/groups-edit.php:231
+#: dashboard/publisher/groups-edit.php:268
+msgid "Before and after content"
+msgstr "Trước và sau nội dung"
+
+#: dashboard/publisher/groups-edit.php:232
+#: dashboard/publisher/groups-edit.php:269
+msgid "Inside the content..."
+msgstr "Bên trong nội dung ..."
+
+#: dashboard/publisher/groups-edit.php:238
+#: dashboard/publisher/groups-edit.php:275
+msgid "after the middle paragraph"
+msgstr "sau đoạn giữa"
+
+#: dashboard/publisher/groups-edit.php:239
+#: dashboard/publisher/groups-edit.php:276
+msgid "after the 1st paragraph"
+msgstr "sau đoạn 1"
+
+#: dashboard/publisher/groups-edit.php:240
+#: dashboard/publisher/groups-edit.php:277
+msgid "after the 2nd paragraph"
+msgstr "sau đoạn 2"
+
+#: dashboard/publisher/groups-edit.php:241
+#: dashboard/publisher/groups-edit.php:278
+msgid "after the 3rd paragraph"
+msgstr "sau đoạn 3"
+
+#: dashboard/publisher/groups-edit.php:242
+#: dashboard/publisher/groups-edit.php:279
+msgid "after the 4th paragraph"
+msgstr "sau đoạn 4"
+
+#: dashboard/publisher/groups-edit.php:243
+#: dashboard/publisher/groups-edit.php:280
+msgid "after the 5th paragraph"
+msgstr "sau đoạn 5"
+
+#: dashboard/publisher/groups-edit.php:244
+#: dashboard/publisher/groups-edit.php:281
+msgid "after the 6th paragraph"
+msgstr "sau đoạn 6"
+
+#: dashboard/publisher/groups-edit.php:245
+#: dashboard/publisher/groups-edit.php:282
+msgid "after the 7th paragraph"
+msgstr "sau đoạn 7"
+
+#: dashboard/publisher/groups-edit.php:246
+#: dashboard/publisher/groups-edit.php:283
+msgid "after the 8th paragraph"
+msgstr "sau đoạn 8"
+
+#: dashboard/publisher/groups-edit.php:260
+msgid "Page Injection"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:320
+msgid "Wrapper code"
+msgstr ""
+
+#: dashboard/publisher/groups-edit.php:321
+msgid "Wraps around each advert. HTML/JavaScript allowed, use with care!"
+msgstr ""
+"Kết thúc tốt đẹp xung quanh mỗi quảng cáo. HTML / JavaScript được phép, sử "
+"dụng cẩn thận!"
+
+#: dashboard/publisher/groups-edit.php:325
+msgid "Before advert"
+msgstr "Trước khi quảng cáo"
+
+#: dashboard/publisher/groups-edit.php:328
+#: dashboard/publisher/groups-edit.php:336
+msgid "Example:"
+msgstr "Ví dụ:"
+
+#: dashboard/publisher/groups-edit.php:329
+msgid "Options:"
+msgstr "Tùy chọn:"
+
+#: dashboard/publisher/groups-edit.php:333
+msgid "After advert"
+msgstr "Sau quảng cáo"
+
+#: dashboard/publisher/groups-edit.php:342
+msgid "Select adverts"
+msgstr "Chọn quảng cáo"
+
+#: dashboard/publisher/groups-edit.php:349
+msgid "Visible until"
+msgstr "Hiển thị cho đến khi"
+
+#: dashboard/publisher/groups-edit.php:397
+msgid "No adverts created!"
+msgstr "Không có quảng cáo được tạo!"
+
+#: dashboard/publisher/groups-edit.php:404
+msgid "Configuration errors."
+msgstr "Lỗi cấu hình."
+
+#: dashboard/publisher/groups-edit.php:405
+#: dashboard/publisher/schedules-main.php:87
+msgid "Expires soon."
+msgstr "Hết hạn sớm."
+
+#: dashboard/publisher/groups-edit.php:406
+#: dashboard/publisher/schedules-main.php:88
+msgid "Has expired."
+msgstr "Đã hết hạn."
+
+#: dashboard/publisher/groups-main.php:21
+msgid "Delete Group"
+msgstr "Xóa nhóm"
+
+#: dashboard/publisher/groups-main.php:22
+msgid "Delete Group including adverts"
+msgstr "Xóa nhóm bao gồm quảng cáo"
+
+#: dashboard/publisher/groups-main.php:24
+msgid "You are about to delete a group"
+msgstr "Bạn sắp xóa một nhóm"
+
+#: dashboard/publisher/groups-main.php:24
+msgid "This action can not be undone!"
+msgstr "Hành động này không thể được hoàn tác!"
+
+#: dashboard/publisher/groups-main.php:24 dashboard/settings/maintenance.php:22
+#: dashboard/settings/maintenance.php:39 dashboard/settings/maintenance.php:109
+msgid "OK to continue, CANCEL to stop."
+msgstr "OK để tiếp tục, HỦY BỎ để dừng lại."
+
+#: dashboard/publisher/groups-main.php:84
+msgid "No groups created!"
+msgstr "Không có nhóm nào được tạo!"
+
+#: dashboard/publisher/media.php:17
+msgid "Upload new file"
+msgstr "Tải lên tập tin mới"
+
+#: dashboard/publisher/media.php:18
+msgid "Accepted files:"
+msgstr "Các tệp được chấp nhận:"
+
+#: dashboard/publisher/media.php:18
+msgid "Maximum size is 512Kb per file."
+msgstr "Kích thước tối đa là 512Kb mỗi tệp."
+
+#: dashboard/publisher/media.php:18
+msgid ""
+"Make sure your file has no spaces or special characters in the name. Replace "
+"spaces with a - or _."
+msgstr ""
+"Đảm bảo tệp của bạn không có khoảng trắng hoặc ký tự đặc biệt trong tên. "
+"Thay thế khoảng trắng bằng một - hoặc _."
+
+#: dashboard/publisher/media.php:18
+msgid ""
+"If you remove spaces from filenames for HTML5 adverts also edit the html "
+"file so it knows about the changed name. For example for the javascript file."
+msgstr ""
+"Nếu bạn xóa khoảng trắng khỏi tên tệp cho quảng cáo HTML5, cũng sẽ chỉnh sửa "
+"tệp html để nó biết về tên đã thay đổi. Ví dụ cho tệp javascript."
+
+#: dashboard/publisher/media.php:21
+msgid "Upload file"
+msgstr "Tải lên tập tin"
+
+#: dashboard/publisher/media.php:21
+msgid "Click only once per file!"
+msgstr "Chỉ nhấp một lần cho mỗi tệp!"
+
+#: dashboard/publisher/media.php:25
+msgid "Available files in"
+msgstr "Các tập tin có sẵn trong"
+
+#: dashboard/publisher/media.php:31
+msgid "Actions"
+msgstr "Hành động"
+
+#: dashboard/publisher/media.php:65
+msgid "No files found!"
+msgstr "Không tìm thấy tập tin!"
+
+#: dashboard/publisher/media.php:72
+msgid ""
+"Make sure the banner images are not in use by adverts when you delete them!"
+msgstr ""
+"Hãy chắc chắn rằng hình ảnh biểu ngữ không được sử dụng bởi quảng cáo khi "
+"bạn xóa chúng!"
+
+#: dashboard/publisher/media.php:73 dashboard/publisher/schedules-main.php:89
+#: dashboard/publisher/statistics-advert.php:108
+#: dashboard/publisher/statistics-group.php:112
+#: dashboard/publisher/statistics-main.php:82
+msgid "Get more features with AdRotate Pro"
+msgstr "Nhận nhiều tính năng hơn với AdRotate Pro"
+
+#: dashboard/publisher/schedules-main.php:13
+msgid ""
+"In AdRotate Pro you can schedule adverts for multiple periods of time. One "
+"schedule can be assigned to many adverts allowing you to manage multi advert "
+"campaigns easily. Schedules can be active on certain days of the week or on "
+"certain hours of the day."
+msgstr ""
+"Trong AdRotate Pro, bạn có thể lên lịch quảng cáo trong nhiều khoảng thời "
+"gian. Một lịch trình có thể được chỉ định cho nhiều quảng cáo cho phép bạn "
+"quản lý nhiều chiến dịch quảng cáo một cách dễ dàng. Lịch trình có thể được "
+"hoạt động vào một số ngày nhất định trong tuần hoặc vào một số giờ nhất định "
+"trong ngày."
+
+#: dashboard/publisher/schedules-main.php:36
+msgid "Max Shown"
+msgstr "Hiển thị tối đa"
+
+#: dashboard/publisher/schedules-main.php:37
+msgid "Max Clicks"
+msgstr "Số lần nhấp tối đa"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Mon:"
+msgstr "Thứ 2:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Tue:"
+msgstr "Thứ 3:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Wed:"
+msgstr "Thứ 4:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Thu:"
+msgstr "Thứ 5:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Fri:"
+msgstr "Thứ 6:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Sat:"
+msgstr "Thứ 7:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Sun:"
+msgstr "Chủ nhật:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Between:"
+msgstr "Giữa:"
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Impression spread:"
+msgstr ""
+
+#: dashboard/publisher/schedules-main.php:70
+msgid "Auto Delete:"
+msgstr "Tự động xóa:"
+
+#: dashboard/publisher/schedules-main.php:81
+msgid "Nothing here!"
+msgstr "Không có gì ở đây!"
+
+#: dashboard/publisher/statistics-advert.php:39
+msgid "Statistics for advert"
+msgstr "Thống kê cho quảng cáo"
+
+#: dashboard/publisher/statistics-advert.php:46
+#: dashboard/publisher/statistics-group.php:53
+#: dashboard/publisher/statistics-main.php:30
+msgid "All time"
+msgstr "Mọi lúc"
+
+#: dashboard/publisher/statistics-advert.php:51
+#: dashboard/publisher/statistics-advert.php:57
+#: dashboard/publisher/statistics-advert.php:71
+#: dashboard/publisher/statistics-advert.php:77
+#: dashboard/publisher/statistics-advert.php:98
+#: dashboard/publisher/statistics-group.php:58
+#: dashboard/publisher/statistics-group.php:64
+#: dashboard/publisher/statistics-group.php:78
+#: dashboard/publisher/statistics-group.php:84
+#: dashboard/publisher/statistics-group.php:103
+#: dashboard/publisher/statistics-main.php:39
+#: dashboard/publisher/statistics-main.php:53
+#: dashboard/publisher/statistics-main.php:57
+#: dashboard/publisher/statistics-main.php:74
+msgid "Impressions"
+msgstr "Ấn tượng"
+
+#: dashboard/publisher/statistics-advert.php:64
+#: dashboard/publisher/statistics-group.php:71
+#: dashboard/publisher/statistics-main.php:46
+msgid "Last month"
+msgstr "Tháng trước"
+
+#: dashboard/publisher/statistics-advert.php:85
+#: dashboard/publisher/statistics-group.php:92
+#: dashboard/publisher/statistics-main.php:64
+msgid "Monthly overview of clicks and impressions"
+msgstr "Tổng quan hàng tháng về số lần nhấp và số lần hiển thị"
+
+#: dashboard/publisher/statistics-advert.php:109
+#: dashboard/publisher/statistics-group.php:113
+#: dashboard/publisher/statistics-main.php:83
+#: dashboard/settings/notifications.php:58
+msgid "Note:"
+msgstr "Ghi chú:"
+
+#: dashboard/publisher/statistics-advert.php:109
+#: dashboard/publisher/statistics-group.php:113
+#: dashboard/publisher/statistics-main.php:83
+msgid ""
+"All statistics are indicative. They do not nessesarily reflect results "
+"counted by other parties."
+msgstr ""
+"Tất cả các số liệu thống kê là chỉ định. Họ không phản ánh nhất thiết kết "
+"quả được tính bởi các bên khác."
+
+#: dashboard/publisher/statistics-group.php:46
+msgid "Statistics for group"
+msgstr "Thống kê cho nhóm"
+
+#: dashboard/publisher/statistics-main.php:37
+msgid "Adverts counting stats"
+msgstr "Quảng cáo đếm số liệu thống kê"
+
+#: dashboard/settings/advertisers.php:16
+msgid "Advertisers - Available in AdRotate Pro"
+msgstr "Nhà quảng cáo - Có sẵn trong AdRotate Pro"
+
+#: dashboard/settings/advertisers.php:17
+msgid "Enable advertisers so they can review and manage their own ads."
+msgstr ""
+"Cho phép các nhà quảng cáo để họ có thể xem xét và quản lý quảng cáo của "
+"riêng họ."
+
+#: dashboard/settings/advertisers.php:20
+msgid "Enable Advertisers"
+msgstr "Cho phép nhà quảng cáo"
+
+#: dashboard/settings/advertisers.php:22
+msgid "Allow adverts to be coupled to users (Advertisers)."
+msgstr "Cho phép quảng cáo được ghép nối với người dùng (Nhà quảng cáo)."
+
+#: dashboard/settings/advertisers.php:26
+msgid "Edit/update adverts"
+msgstr "Chỉnh sửa / cập nhật quảng cáo"
+
+#: dashboard/settings/advertisers.php:28
+msgid "Allow advertisers to add new or edit their adverts."
+msgstr "Cho phép nhà quảng cáo thêm mới hoặc chỉnh sửa quảng cáo của họ."
+
+#: dashboard/settings/advertisers.php:32
+msgid "Mobile adverts"
+msgstr "Quảng cáo di động"
+
+#: dashboard/settings/advertisers.php:34
+msgid "Allow advertisers to specify on which devices their ads will show."
+msgstr ""
+"Cho phép nhà quảng cáo chỉ định thiết bị nào quảng cáo của họ sẽ hiển thị."
+
+#: dashboard/settings/advertisers.php:40
+msgid ""
+"Allow advertisers to specify where their ads will show. Geo Targeting has to "
+"be enabled, too."
+msgstr ""
+"Cho phép các nhà quảng cáo chỉ định nơi quảng cáo của họ sẽ hiển thị. Nhắm "
+"mục tiêu theo địa lý cũng phải được kích hoạt."
+
+#: dashboard/settings/advertisers.php:44
+msgid "Advertiser role"
+msgstr "Vai trò của nhà quảng cáo"
+
+#: dashboard/settings/advertisers.php:46
+msgid "Create a seperate user role for your advertisers."
+msgstr "Tạo một vai trò người dùng riêng biệt cho các nhà quảng cáo của bạn."
+
+#: dashboard/settings/advertisers.php:47
+msgid ""
+"Don't forget to give these users access to their advertiser dashboard via "
+"the Roles tab."
+msgstr ""
+"Đừng quên cấp cho những người dùng này quyền truy cập vào bảng điều khiển "
+"của nhà quảng cáo của họ thông qua tab Vai trò."
+
+#: dashboard/settings/advertisers.php:53 dashboard/settings/general.php:78
+#: dashboard/settings/maintenance.php:115 dashboard/settings/misc.php:47
+#: dashboard/settings/notifications.php:79 dashboard/settings/roles.php:55
+#: dashboard/settings/statistics.php:83
+msgid "Update Options"
+msgstr "Cập nhật tùy chọn"
+
+#: dashboard/settings/general.php:17
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+#: dashboard/settings/general.php:18
+msgid "General settings for AdRotate."
+msgstr "Cài đặt chung cho AdRotate."
+
+#: dashboard/settings/general.php:18 dashboard/settings/statistics.php:18
+msgid "Some options are only available in AdRotate Pro!"
+msgstr "Một số tùy chọn chỉ khả dụng trong AdRotate Pro!"
+
+#: dashboard/settings/general.php:21
+msgid "Shortcode in widgets"
+msgstr "Shortcode trong widget"
+
+#: dashboard/settings/general.php:22
+msgid ""
+"Enable this option to if your theme does not support shortcodes in the "
+"WordPress text widget."
+msgstr ""
+"Cho phép tùy chọn này nếu chủ đề của bạn không hỗ trợ mã ngắn trong tiện ích "
+"văn bản WordPress."
+
+#: dashboard/settings/general.php:25
+msgid "Disable live preview"
+msgstr "Vô hiệu hóa xem trước trực tiếp"
+
+#: dashboard/settings/general.php:26
+msgid ""
+"Enable this option if you have faulty adverts that overflow their designated "
+"area while creating/editing adverts."
+msgstr ""
+"Bật tùy chọn này nếu bạn có quảng cáo bị lỗi tràn qua khu vực được chỉ định "
+"trong khi tạo / chỉnh sửa quảng cáo."
+
+#: dashboard/settings/general.php:29
+msgid "Disable dynamic mode"
+msgstr "Tắt chế độ động"
+
+#: dashboard/settings/general.php:30
+msgid ""
+"Enable this option to disable dynamic mode in groups for mobile devices if "
+"you notice skipping or jumpy content."
+msgstr ""
+"Bật tùy chọn này để tắt chế độ động trong các nhóm cho thiết bị di động nếu "
+"bạn nhận thấy nội dung bị bỏ qua hoặc tăng vọt."
+
+#: dashboard/settings/general.php:33
+msgid "Load jQuery"
+msgstr "Tải jQuery"
+
+#: dashboard/settings/general.php:34
+msgid ""
+"Enable this option if your theme does not load jQuery. jQuery is required "
+"for dynamic groups, statistics and some other features."
+msgstr ""
+"Kích hoạt tùy chọn này nếu chủ đề của bạn không tải jQuery. jQuery là cần "
+"thiết cho các nhóm động, số liệu thống kê và một số tính năng khác."
+
+#: dashboard/settings/general.php:37
+msgid "Load scripts in footer?"
+msgstr "Tải tập lệnh trong phần chân trang?"
+
+#: dashboard/settings/general.php:38
+msgid ""
+"Enable this option if you want to load all AdRotate Javascripts in the "
+"footer of your site."
+msgstr ""
+"Kích hoạt tùy chọn này nếu bạn muốn tải tất cả các Javas Adts trong phần "
+"chân trang của trang web của bạn."
+
+#: dashboard/settings/general.php:41
+msgid "Adblock disguise"
+msgstr "Quảng cáo ngụy trang"
+
+#: dashboard/settings/general.php:43
+msgid "Leave empty to disable. Use only lowercaps letters. For example:"
+msgstr "Để trống để vô hiệu hóa. Chỉ sử dụng chữ cái dưới. Ví dụ:"
+
+#: dashboard/settings/general.php:44
+msgid ""
+"Try and avoid adblock plugins in most modern browsers when using shortcodes."
+msgstr ""
+"Hãy thử và tránh các plugin quảng cáo trong hầu hết các trình duyệt hiện đại "
+"khi sử dụng mã ngắn."
+
+#: dashboard/settings/general.php:44
+msgid ""
+"To also apply this feature to widgets, use a text widget with a shortcode "
+"instead of the AdRotate widget."
+msgstr ""
+"Để cũng áp dụng tính năng này cho các tiện ích, hãy sử dụng tiện ích văn bản "
+"có mã ngắn thay vì tiện ích AdRotate."
+
+#: dashboard/settings/general.php:44
+msgid ""
+"Avoid the use of obvious keywords or filenames in your adverts or this "
+"feature will have little effect!"
+msgstr ""
+"Tránh sử dụng các từ khóa hoặc tên tệp rõ ràng trong quảng cáo của bạn nếu "
+"không tính năng này sẽ ít ảnh hưởng!"
+
+#: dashboard/settings/general.php:49
+msgid "Banner Folder"
+msgstr "Thư mục Banner"
+
+#: dashboard/settings/general.php:50
+msgid "Set a folder where your banner images will be stored."
+msgstr "Đặt một thư mục nơi hình ảnh biểu ngữ của bạn sẽ được lưu trữ."
+
+#: dashboard/settings/general.php:53
+msgid "Folder name"
+msgstr "Tên thư mục"
+
+#: dashboard/settings/general.php:55
+msgid "(Default: banners)."
+msgstr ""
+
+#: dashboard/settings/general.php:56
+msgid ""
+"To try and trick ad blockers you could set the folder to something crazy "
+"like:"
+msgstr ""
+"Để thử và lừa các trình chặn quảng cáo, bạn có thể đặt thư mục thành một thứ "
+"điên rồ như:"
+
+#: dashboard/settings/general.php:57
+msgid ""
+"This folder will not be automatically created if it doesn't exist. AdRotate "
+"will show errors when the folder is missing."
+msgstr ""
+"Thư mục này sẽ không được tạo tự động nếu nó không tồn tại. AdRotate sẽ hiển "
+"thị lỗi khi thư mục bị thiếu."
+
+#: dashboard/settings/general.php:62
+msgid "Bot filter"
+msgstr "Bộ lọc bot"
+
+#: dashboard/settings/general.php:63
+msgid "The bot filter is used for the AdRotate stats tracker."
+msgstr "Bộ lọc bot được sử dụng cho trình theo dõi thống kê AdRotate."
+
+#: dashboard/settings/general.php:66
+msgid "User-Agent Filter"
+msgstr "Bộ lọc tác nhân người dùng"
+
+#: dashboard/settings/general.php:69
+msgid ""
+"A comma separated list of keywords. Filter out bots/crawlers/user-agents."
+msgstr ""
+"Một danh sách các từ khóa được phân tách bằng dấu phẩy. Lọc ra bot / trình "
+"thu thập thông tin / tác nhân người dùng."
+
+#: dashboard/settings/general.php:70
+msgid ""
+"Keep in mind that this might give false positives. The word 'fire' also "
+"matches 'firefox', but not vice-versa. So be careful!"
+msgstr ""
+"Hãy nhớ rằng điều này có thể cung cấp cho dương tính giả. Từ 'fire' cũng "
+"khớp với 'firefox', nhưng không phải ngược lại. Vì vậy, hãy cẩn thận!"
+
+#: dashboard/settings/general.php:71
+msgid ""
+"Only words with alphanumeric characters and [ - _ ] are allowed. All other "
+"characters are stripped out."
+msgstr ""
+"Chỉ những từ có ký tự chữ và số và [- _] mới được phép. Tất cả các nhân vật "
+"khác bị tước bỏ."
+
+#: dashboard/settings/general.php:72
+msgid ""
+"Additionally to the list specified here, empty User-Agents are blocked as "
+"well."
+msgstr ""
+"Ngoài ra, trong danh sách được chỉ định ở đây, Đại lý người dùng trống cũng "
+"bị chặn."
+
+#: dashboard/settings/general.php:72
+msgid "Learn more about"
+msgstr "Học nhiều hơn về"
+
+#: dashboard/settings/general.php:72
+msgid "user-agents"
+msgstr "tác nhân người dùng"
+
+#: dashboard/settings/geotargeting.php:17
+msgid "Geo Targeting - Available in AdRotate Pro"
+msgstr "Nhắm mục tiêu theo địa lý - Có sẵn trong AdRotate Pro"
+
+#: dashboard/settings/geotargeting.php:18
+msgid "Target certain areas in the world for better advertising oppurtunities."
+msgstr ""
+"Nhắm mục tiêu các khu vực nhất định trên thế giới để có cơ hội quảng cáo tốt "
+"hơn."
+
+#: dashboard/settings/geotargeting.php:21
+msgid "Which Geo Service"
+msgstr "Dịch vụ địa lý nào"
+
+#: dashboard/settings/geotargeting.php:32
+msgid "20000 free lookups every day, uses GeoLite2 databases from MaxMind!"
+msgstr ""
+
+#: dashboard/settings/geotargeting.php:33
+#: dashboard/settings/geotargeting.php:37
+#: dashboard/settings/geotargeting.php:41
+#: dashboard/settings/geotargeting.php:45 dashboard/settings/statistics.php:33
+#: dashboard/settings/statistics.php:36 dashboard/settings/statistics.php:39
+#: dashboard/settings/statistics.php:42 dashboard/settings/statistics.php:45
+msgid "Supports:"
+msgstr "Hỗ trợ:"
+
+#: dashboard/settings/geotargeting.php:34
+#: dashboard/settings/geotargeting.php:38
+#: dashboard/settings/geotargeting.php:42
+#: dashboard/settings/geotargeting.php:46
+msgid "Scalability:"
+msgstr "Khả năng mở rộng:"
+
+#: dashboard/settings/geotargeting.php:34
+msgid "Suitable for small to medium sized websites."
+msgstr "Thích hợp cho các trang web vừa và nhỏ."
+
+#: dashboard/settings/geotargeting.php:36
+msgid "10000 free lookups per month, requires account."
+msgstr "10000 tra cứu miễn phí mỗi tháng, yêu cầu tài khoản."
+
+#: dashboard/settings/geotargeting.php:38
+msgid ""
+"Suitable for small to medium sized websites with a free account - Paid "
+"options available."
+msgstr ""
+"Thích hợp cho các trang web vừa và nhỏ có tài khoản miễn phí - Có sẵn tùy "
+"chọn trả phí."
+
+#: dashboard/settings/geotargeting.php:40
+msgid "The most accurate geo targeting available."
+msgstr "Nhắm mục tiêu địa lý chính xác nhất có sẵn."
+
+#: dashboard/settings/geotargeting.php:42
+msgid "Suitable for any size website as long as you have lookups."
+msgstr "Thích hợp cho bất kỳ trang web kích thước miễn là bạn có tra cứu."
+
+#: dashboard/settings/geotargeting.php:44
+msgid "Basic geolocation included in every CloudFlare account."
+msgstr "Thích hợp cho bất kỳ trang web kích thước miễn là bạn có tra cứu."
+
+#: dashboard/settings/geotargeting.php:46
+msgid "Suitable for any size website."
+msgstr "Thích hợp cho mọi trang web kích thước."
+
+#: dashboard/settings/geotargeting.php:51
+msgid "Geo Cookie Lifespan"
+msgstr "Tuổi thọ cookie địa lý"
+
+#: dashboard/settings/geotargeting.php:60
+msgid "Hours."
+msgstr "Giờ."
+
+#: dashboard/settings/geotargeting.php:61
+msgid ""
+"Geo Data is stored in a cookie to reduce lookups. How long should this "
+"cookie last? A longer period is less accurate for mobile users but may "
+"reduce the usage of your lookups drastically."
+msgstr ""
+"Dữ liệu địa lý được lưu trữ trong một cookie để giảm tra cứu. Cookie này nên "
+"kéo dài bao lâu? Một khoảng thời gian dài ít chính xác hơn cho người dùng di "
+"động nhưng có thể làm giảm đáng kể việc sử dụng tra cứu của bạn."
+
+#: dashboard/settings/geotargeting.php:67
+msgid "MaxMind City/Country"
+msgstr "Thành phố / Quốc gia MaxMind"
+
+#: dashboard/settings/geotargeting.php:70
+msgid "Username/Email"
+msgstr "Tên đăng nhập / Email"
+
+#: dashboard/settings/geotargeting.php:74
+msgid "Password/License Key"
+msgstr "Mật khẩu / Khóa giấy phép"
+
+#: dashboard/settings/maintenance.php:17
+msgid ""
+"Use these functions when you notice your database is slow, unresponsive and "
+"sluggish."
+msgstr ""
+"Sử dụng các chức năng này khi bạn nhận thấy cơ sở dữ liệu của mình chậm, "
+"không phản hồi và chậm chạp."
+
+#: dashboard/settings/maintenance.php:20 dashboard/settings/maintenance.php:22
+msgid "Optimize Database"
+msgstr "Tối ưu hóa cơ sở dữ liệu"
+
+#: dashboard/settings/maintenance.php:22
+msgid "You are about to optimize the AdRotate database."
+msgstr "Bạn sắp tối ưu hóa cơ sở dữ liệu AdRotate."
+
+#: dashboard/settings/maintenance.php:22
+msgid "Did you make a backup of your database?"
+msgstr "Bạn đã tạo một bản sao lưu cơ sở dữ liệu của bạn?"
+
+#: dashboard/settings/maintenance.php:22
+msgid ""
+"This may take a moment and may cause your website to respond slow "
+"temporarily!"
+msgstr ""
+
+#: dashboard/settings/maintenance.php:23
+msgid "Cleans up overhead data in the AdRotate tables."
+msgstr "Dọn dẹp dữ liệu trên cao trong các bảng AdRotate."
+
+#: dashboard/settings/maintenance.php:24
+msgid ""
+"Overhead data is accumulated garbage resulting from many changes you've "
+"made. This can vary from nothing to hundreds of KiB of data."
+msgstr ""
+"Dữ liệu trên đầu là rác tích lũy do nhiều thay đổi bạn đã thực hiện. Điều "
+"này có thể thay đổi từ không có gì đến hàng trăm KiB dữ liệu."
+
+#: dashboard/settings/maintenance.php:28
+msgid "Clean-up Database and Files"
+msgstr "Dọn dẹp cơ sở dữ liệu và tập tin"
+
+#: dashboard/settings/maintenance.php:30
+msgid "Clean-up Database"
+msgstr "Dọn dẹp cơ sở dữ liệu"
+
+#: dashboard/settings/maintenance.php:30
+msgid ""
+"You are about to clean up your database. This may delete expired schedules, "
+"older statistics and try to delete export files"
+msgstr ""
+"Bạn sắp dọn dẹp cơ sở dữ liệu của bạn. Điều này có thể xóa lịch trình hết "
+"hạn, số liệu thống kê cũ hơn và cố gắng xóa các tệp xuất"
+
+#: dashboard/settings/maintenance.php:30
+msgid "Are you sure you want to continue?"
+msgstr "Bạn có chắc chắn muốn tiếp tục?"
+
+#: dashboard/settings/maintenance.php:30
+msgid "THIS ACTION CAN NOT BE UNDONE!"
+msgstr "HÀNH ĐỘNG NÀY KHÔNG THỂ ĐƯỢC HOÀN TÁC!"
+
+#: dashboard/settings/maintenance.php:31
+msgid "Delete stats older than 365 days."
+msgstr "Xóa số liệu thống kê cũ hơn 365 ngày."
+
+#: dashboard/settings/maintenance.php:32
+msgid "Delete leftover export files."
+msgstr "Xóa các tập tin xuất khẩu còn sót lại."
+
+#: dashboard/settings/maintenance.php:33
+msgid ""
+"For when you create an advert, group or schedule and it does not save or "
+"keep changes you make."
+msgstr ""
+"Vì khi bạn tạo quảng cáo, nhóm hoặc lịch biểu và nó không lưu hoặc giữ những "
+"thay đổi bạn thực hiện."
+
+#: dashboard/settings/maintenance.php:33
+msgid ""
+"Additionally you can delete statistics and/or unused export files. This will "
+"improve the speed of your site."
+msgstr ""
+"Ngoài ra, bạn có thể xóa số liệu thống kê và / hoặc các tệp xuất không sử "
+"dụng. Điều này sẽ cải thiện tốc độ của trang web của bạn."
+
+#: dashboard/settings/maintenance.php:37
+msgid "Re-evaluate Ads"
+msgstr "Đánh giá lại quảng cáo"
+
+#: dashboard/settings/maintenance.php:39
+msgid "Re-evaluate all ads"
+msgstr "Đánh giá lại tất cả quảng cáo"
+
+#: dashboard/settings/maintenance.php:39
+msgid "You are about to check all ads for errors."
+msgstr "Bạn sắp kiểm tra tất cả các quảng cáo cho lỗi."
+
+#: dashboard/settings/maintenance.php:39 dashboard/settings/maintenance.php:109
+msgid "This might take a while and may slow down your site during this action!"
+msgstr ""
+"Điều này có thể mất một lúc và có thể làm chậm trang web của bạn trong hành "
+"động này!"
+
+#: dashboard/settings/maintenance.php:40
+msgid ""
+"This will apply all evaluation rules to all ads to see if any error slipped "
+"in. Normally you should not need this feature."
+msgstr ""
+"Điều này sẽ áp dụng tất cả các quy tắc đánh giá cho tất cả các quảng cáo để "
+"xem có lỗi nào xảy ra không. Thông thường bạn không cần tính năng này."
+
+#: dashboard/settings/maintenance.php:44
+msgid ""
+"DISCLAIMER: The above functions are intented to be used to OPTIMIZE your "
+"database. They only apply to your ads/groups and stats. Not to other "
+"settings or other parts of WordPress! Always always make a backup! If for "
+"any reason your data is lost, damaged or otherwise becomes unusable in any "
+"way or by any means in whichever way I will not take responsibility. You "
+"should always have a backup of your database. These functions do NOT destroy "
+"data. If data is lost, damaged or unusable in any way, your database likely "
+"was beyond repair already. Claiming it worked before clicking these buttons "
+"is not a valid point in any case."
+msgstr ""
+"TUYÊN BỐ TỪ CHỐI: Các chức năng trên được dự định sẽ được sử dụng để tối ưu "
+"hóa cơ sở dữ liệu của bạn. Họ chỉ áp dụng cho quảng cáo / nhóm và số liệu "
+"thống kê của bạn. Không cho các cài đặt khác hoặc các phần khác của "
+"WordPress! Luôn luôn tạo một bản sao lưu! Nếu vì bất kỳ lý do gì, dữ liệu "
+"của bạn bị mất, bị hư hỏng hoặc trở nên không thể sử dụng được bằng bất kỳ "
+"cách nào hoặc bằng bất kỳ cách nào tôi sẽ không chịu trách nhiệm. Bạn phải "
+"luôn luôn có một bản sao lưu cơ sở dữ liệu của bạn. Các chức năng này KHÔNG "
+"phá hủy dữ liệu. Nếu dữ liệu bị mất, bị hỏng hoặc không thể sử dụng theo bất "
+"kỳ cách nào, cơ sở dữ liệu của bạn có khả năng vượt quá khả năng sửa chữa. "
+"Yêu cầu nó hoạt động trước khi nhấp vào các nút này không phải là điểm hợp "
+"lệ trong mọi trường hợp."
+
+#: dashboard/settings/maintenance.php:46
+msgid "Troubleshooting"
+msgstr "Xử lý sự cố"
+
+#: dashboard/settings/maintenance.php:47
+msgid ""
+"The below options are not meant for normal use and are only there for "
+"developers to review saved settings or how ads are selected. These can be "
+"used as a measure of troubleshooting upon request but for normal use they "
+"SHOULD BE LEFT UNCHECKED!!"
+msgstr ""
+"Các tùy chọn bên dưới không dành cho sử dụng thông thường và chỉ có ở đó để "
+"các nhà phát triển xem xét các cài đặt đã lưu hoặc cách chọn quảng cáo. "
+"Chúng có thể được sử dụng như một biện pháp khắc phục sự cố theo yêu cầu "
+"nhưng đối với sử dụng bình thường, chúng NÊN ĐƯỢC TRÁCH NHIỆM !!"
+
+#: dashboard/settings/maintenance.php:50
+msgid "Developer Debug"
+msgstr "Gỡ lỗi nhà phát triển"
+
+#: dashboard/settings/maintenance.php:52
+msgid "Troubleshoot ads and how they are selected. Visible on the front-end."
+msgstr ""
+"Khắc phục sự cố quảng cáo và cách chúng được chọn. Hiển thị ở mặt trước."
+
+#: dashboard/settings/maintenance.php:53
+msgid "Disable timers for clicks and impressions."
+msgstr "Vô hiệu hóa bộ hẹn giờ cho các nhấp chuột và hiển thị."
+
+#: dashboard/settings/maintenance.php:54
+msgid "Temporarily disable encryption on the redirect url."
+msgstr "Tạm thời vô hiệu hóa mã hóa trên url chuyển hướng."
+
+#: dashboard/settings/maintenance.php:59
+msgid "Status and Versions"
+msgstr "Trạng thái và phiên bản"
+
+#: dashboard/settings/maintenance.php:62
+msgid "Current status of adverts"
+msgstr "Tình trạng hiện tại của quảng cáo"
+
+#: dashboard/settings/maintenance.php:63
+msgid "Normal"
+msgstr "Bình thường"
+
+#: dashboard/settings/maintenance.php:63
+msgid "Error"
+msgstr "Lỗi"
+
+#: dashboard/settings/maintenance.php:63
+msgid "Expires Soon"
+msgstr "Hết hạn sớm"
+
+#: dashboard/settings/maintenance.php:63
+msgid "Unknown"
+msgstr "Không xác định"
+
+#: dashboard/settings/maintenance.php:66
+msgid "Banners/assets Folder"
+msgstr "Thư mục biểu ngữ / tài sản"
+
+#: dashboard/settings/maintenance.php:70 dashboard/settings/maintenance.php:79
+msgid "Exists and appears writable"
+msgstr "Tồn tại và xuất hiện"
+
+#: dashboard/settings/maintenance.php:70 dashboard/settings/maintenance.php:79
+msgid "Not writable or does not exist"
+msgstr "Không thể ghi hoặc không tồn tại"
+
+#: dashboard/settings/maintenance.php:75
+msgid "Reports Folder"
+msgstr "Thư mục báo cáo"
+
+#: dashboard/settings/maintenance.php:84
+msgid "Advert evaluation"
+msgstr "Đánh giá quảng cáo"
+
+#: dashboard/settings/maintenance.php:85
+msgid "Not scheduled! Re-activate the plugin from the plugins page."
+msgstr "Không theo lịch trình! Kích hoạt lại plugin từ trang plugin."
+
+#: dashboard/settings/maintenance.php:86
+msgid "Clean Trackerdata"
+msgstr "Theo dõi sạch"
+
+#: dashboard/settings/maintenance.php:87
+msgid "Not scheduled!"
+msgstr "Không theo lịch trình!"
+
+#: dashboard/settings/maintenance.php:90
+msgid "Background tasks"
+msgstr "Nhiệm vụ nền"
+
+#: dashboard/settings/maintenance.php:92
+msgid "Reset background tasks"
+msgstr "Đặt lại các tác vụ nền"
+
+#: dashboard/settings/maintenance.php:97
+msgid "Internal Versions"
+msgstr "Phiên bản nội bộ"
+
+#: dashboard/settings/maintenance.php:98
+msgid ""
+"Unless you experience database issues or a warning shows below, these "
+"numbers are not really relevant for troubleshooting. Support may ask for "
+"them to verify your database status."
+msgstr ""
+"Trừ khi bạn gặp sự cố cơ sở dữ liệu hoặc cảnh báo hiển thị bên dưới, những "
+"con số này không thực sự phù hợp để khắc phục sự cố. Hỗ trợ có thể yêu cầu "
+"họ xác minh trạng thái cơ sở dữ liệu của bạn."
+
+#: dashboard/settings/maintenance.php:101
+msgid "AdRotate version"
+msgstr ""
+
+#: dashboard/settings/maintenance.php:102
+#: dashboard/settings/maintenance.php:104
+msgid "Current:"
+msgstr "Hiện hành:"
+
+#: dashboard/settings/maintenance.php:102
+#: dashboard/settings/maintenance.php:104
+msgid "Should be:"
+msgstr "Nên là:"
+
+#: dashboard/settings/maintenance.php:102
+#: dashboard/settings/maintenance.php:104
+msgid "Previous:"
+msgstr "Trước:"
+
+#: dashboard/settings/maintenance.php:103
+msgid "Database version"
+msgstr "Phiên bản cơ sở dữ liệu"
+
+#: dashboard/settings/maintenance.php:107
+msgid "Manual upgrade"
+msgstr "Nâng cấp thủ công"
+
+#: dashboard/settings/maintenance.php:109
+msgid "YOU ARE ABOUT TO DO A MANUAL UPDATE FOR ADROTATE."
+msgstr "BẠN ĐANG GIỚI THIỆU ĐỂ CẬP NHẬT HƯỚNG DẪN SỬ DỤNG."
+
+#: dashboard/settings/maintenance.php:109
+msgid "Make sure you have a database backup!"
+msgstr "Hãy chắc chắn rằng bạn có một bản sao lưu cơ sở dữ liệu!"
+
+#: dashboard/settings/maintenance.php:109
+msgid "Run updater"
+msgstr "Chạy cập nhật"
+
+#: dashboard/settings/misc.php:16
+msgid "Miscellaneous"
+msgstr "Điều khoản khác"
+
+#: dashboard/settings/misc.php:19
+msgid "Widget alignment"
+msgstr "Căn chỉnh widget"
+
+#: dashboard/settings/misc.php:20
+msgid ""
+"Check this box if your widgets do not align in your themes sidebar. (Does "
+"not always help!)"
+msgstr ""
+"Chọn hộp này nếu các widget của bạn không căn chỉnh trong thanh bên chủ đề "
+"của bạn. (Không phải lúc nào cũng giúp!)"
+
+#: dashboard/settings/misc.php:23
+msgid "Widget padding"
+msgstr "Tiện ích đệm"
+
+#: dashboard/settings/misc.php:24
+msgid ""
+"Enable this to remove the padding (blank space) around ads in widgets. (Does "
+"not always work!)"
+msgstr ""
+"Cho phép điều này để xóa phần đệm (khoảng trống) xung quanh quảng cáo trong "
+"các tiện ích. (Không phải lúc nào cũng hoạt động!)"
+
+#: dashboard/settings/misc.php:28
+msgid "NOTICE:"
+msgstr "CHÚ Ý:"
+
+#: dashboard/settings/misc.php:29
+msgid ""
+"You have enabled W3 Total Caching support but not defined the security hash."
+msgstr "Bạn đã bật hỗ trợ Bộ đệm tổng W3 nhưng không xác định hàm băm bảo mật."
+
+#: dashboard/settings/misc.php:29
+msgid ""
+"AdRotate has generated the following line for you to add to your wp-config."
+"php around line 52 (below the WordPress nonces). If you do not know how to "
+"add this line, check out the following guide;"
+msgstr ""
+"AdRotate đã tạo ra dòng sau để bạn thêm vào wp-config.php của bạn xung quanh "
+"dòng 52 (bên dưới các nonces WordPress). Nếu bạn không biết cách thêm dòng "
+"này, hãy xem hướng dẫn sau;"
+
+#: dashboard/settings/misc.php:29
+msgid "Set up W3 Total Caching"
+msgstr "Thiết lập W3 Total Caching"
+
+#: dashboard/settings/misc.php:33
+msgid "W3 Total Caching"
+msgstr ""
+
+#: dashboard/settings/misc.php:34
+msgid "Check this box if you use W3 Total Caching on your site."
+msgstr "Chọn hộp này nếu bạn sử dụng W3 Total Cache trên trang web của bạn."
+
+#: dashboard/settings/misc.php:37
+msgid "Borlabs Cache"
+msgstr "Bộ nhớ cache Borlabs"
+
+#: dashboard/settings/misc.php:38
+msgid "Check this box if you use Borlabs Caching on your site."
+msgstr "Chọn hộp này nếu bạn sử dụng Borlabs Cache trên trang web của mình."
+
+#: dashboard/settings/misc.php:42
+msgid ""
+"It may take a while for the ad to start rotating. The caching plugin needs "
+"to refresh the cache. This can take up to a week if not done manually."
+msgstr ""
+"Có thể mất một lúc để quảng cáo bắt đầu xoay. Các plugin bộ đệm cần phải làm "
+"mới bộ đệm. Điều này có thể mất đến một tuần nếu không được thực hiện thủ "
+"công."
+
+#: dashboard/settings/misc.php:42
+msgid ""
+"Caching support only works for [shortcodes] and the AdRotate Widget. If you "
+"use a PHP Snippet you need to wrap your PHP in the exclusion code yourself."
+msgstr ""
+"Hỗ trợ bộ đệm chỉ hoạt động cho [shortcodes] và Widget AdRotate. Nếu bạn sử "
+"dụng Đoạn mã PHP, bạn cần phải tự bọc PHP trong mã loại trừ."
+
+#: dashboard/settings/notifications.php:19
+msgid "Set up who gets notifications if ads need your attention."
+msgstr "Thiết lập người nhận thông báo nếu quảng cáo cần sự chú ý của bạn."
+
+#: dashboard/settings/notifications.php:22
+msgid "How to notify"
+msgstr "Cách thông báo"
+
+#: dashboard/settings/notifications.php:24
+msgid "Dashboard banner."
+msgstr "Bảng điều khiển."
+
+#: dashboard/settings/notifications.php:25
+msgid "Email message."
+msgstr "Tin nhắn Email."
+
+#: dashboard/settings/notifications.php:29
+msgid "Test notification"
+msgstr "Thông báo kiểm tra"
+
+#: dashboard/settings/notifications.php:31
+msgid "Test"
+msgstr "Kiểm tra"
+
+#: dashboard/settings/notifications.php:31
+msgid ""
+"Send a test notification to enabled methods. Before you test, save the "
+"options first!"
+msgstr ""
+"Gửi thông báo kiểm tra đến các phương thức kích hoạt. Trước khi kiểm tra, "
+"hãy lưu các tùy chọn trước!"
+
+#: dashboard/settings/notifications.php:36
+msgid "Dashboard Banner"
+msgstr "Bảng điều khiển"
+
+#: dashboard/settings/notifications.php:37
+msgid ""
+"These go in a dashboard banner visible to all users with access to AdRotate "
+"on every WordPress dashboard page."
+msgstr ""
+"Chúng đi trong một biểu ngữ bảng điều khiển hiển thị cho tất cả người dùng "
+"có quyền truy cập vào AdRotate trên mỗi trang bảng điều khiển WordPress."
+
+#: dashboard/settings/notifications.php:40
+#: dashboard/settings/notifications.php:52
+msgid "What"
+msgstr ""
+
+#: dashboard/settings/notifications.php:42
+msgid "Expired adverts."
+msgstr "Quảng cáo hết hạn."
+
+#: dashboard/settings/notifications.php:43
+msgid "Almost expired adverts."
+msgstr "Quảng cáo gần như hết hạn."
+
+#: dashboard/settings/notifications.php:48
+msgid "Email Message"
+msgstr "Tin nhắn Email"
+
+#: dashboard/settings/notifications.php:49
+msgid ""
+"Receive email notifications about what is happening with your AdRotate setup."
+msgstr ""
+"Nhận thông báo qua email về những gì đang xảy ra với thiết lập AdRotate của "
+"bạn."
+
+#: dashboard/settings/notifications.php:54
+msgid "Daily digest of any advert status other than normal."
+msgstr ""
+"Thông báo hàng ngày về bất kỳ trạng thái quảng cáo nào khác hơn bình thường."
+
+#: dashboard/settings/notifications.php:55
+msgid "When you are running out of Geo Targeting Lookups."
+msgstr "Khi bạn đang chạy ra khỏi mục tiêu tra cứu Geo."
+
+#: dashboard/settings/notifications.php:56
+msgid "Any advertiser saving an advert in your moderation queue."
+msgstr ""
+"Bất kỳ nhà quảng cáo nào lưu một quảng cáo trong hàng đợi kiểm duyệt của bạn."
+
+#: dashboard/settings/notifications.php:57
+msgid "A moderator approved an advert from the moderation queue."
+msgstr "Người điều hành đã phê duyệt một quảng cáo từ hàng đợi kiểm duyệt."
+
+#: dashboard/settings/notifications.php:58
+msgid "A moderator rejected an advert from the moderation queue."
+msgstr "Người điều hành đã từ chối một quảng cáo từ hàng đợi kiểm duyệt."
+
+#: dashboard/settings/notifications.php:58
+msgid ""
+"If you have a lot of activity with many advertisers adding/changing adverts "
+"you may get a lot of messages!"
+msgstr ""
+"Nếu bạn có nhiều hoạt động với nhiều nhà quảng cáo thêm / thay đổi quảng "
+"cáo, bạn có thể nhận được rất nhiều tin nhắn!"
+
+#: dashboard/settings/notifications.php:58
+msgid ""
+"Sending out a lot of email is sometimes seen as automated mailing and deemed "
+"spammy. This may result in automated filters such as those used in services "
+"like Google Gmail and Microsoft Hotmail/Outlook.com blocking your server. "
+"Make sure you whitelist the sending address in your email account once you "
+"start receiving notifications!"
+msgstr ""
+"Gửi rất nhiều email đôi khi được xem là gửi thư tự động và được coi là spam. "
+"Điều này có thể dẫn đến các bộ lọc tự động, chẳng hạn như các bộ lọc được sử "
+"dụng trong các dịch vụ như Google Gmail và Microsoft Hotmail / Outlook.com "
+"chặn máy chủ của bạn. Đảm bảo bạn đưa danh sách trắng địa chỉ gửi trong tài "
+"khoản email của bạn sau khi bạn bắt đầu nhận thông báo!"
+
+#: dashboard/settings/notifications.php:63
+msgid "Publishers"
+msgstr "Nhà xuất bản"
+
+#: dashboard/settings/notifications.php:66
+msgid ""
+"Messages are sent once every 24 hours.  Maximum of 5 addresses. Comma "
+"separated. This field may not be empty!"
+msgstr ""
+"Tin nhắn được gửi cứ sau 24 giờ. Tối đa 5 địa chỉ. Dấu phẩy tách ra. Lĩnh "
+"vực này có thể không trống!"
+
+#: dashboard/settings/notifications.php:73
+msgid ""
+"Who gets email from advertisers. Maximum of 5 addresses. Comma separated. "
+"This field may not be empty!"
+msgstr ""
+"Ai nhận được email từ các nhà quảng cáo. Tối đa 5 địa chỉ. Dấu phẩy tách ra. "
+"Lĩnh vực này có thể không trống!"
+
+#: dashboard/settings/roles.php:18
+msgid "Who has access to what?"
+msgstr "Ai có quyền truy cập vào cái gì?"
+
+#: dashboard/settings/roles.php:21
+msgid "Manage/Add/Edit adverts"
+msgstr "Quản lý / Thêm / Chỉnh sửa quảng cáo"
+
+#: dashboard/settings/roles.php:25
+msgid "Role to see and add/edit ads."
+msgstr "Vai trò để xem và thêm / chỉnh sửa quảng cáo."
+
+#: dashboard/settings/roles.php:29
+msgid "Delete/Reset adverts"
+msgstr "Xóa / Đặt lại quảng cáo"
+
+#: dashboard/settings/roles.php:33
+msgid "Role to delete ads and reset stats."
+msgstr "Vai trò để xóa quảng cáo và thiết lập lại số liệu thống kê."
+
+#: dashboard/settings/roles.php:37
+msgid "Manage/Add/Edit groups"
+msgstr "Quản lý / Thêm / Chỉnh sửa nhóm"
+
+#: dashboard/settings/roles.php:41
+msgid "Role to see and add/edit groups."
+msgstr "Vai trò để xem và thêm / chỉnh sửa các nhóm."
+
+#: dashboard/settings/roles.php:45
+msgid "Delete groups"
+msgstr "Xóa nhóm"
+
+#: dashboard/settings/roles.php:49
+msgid "Role to delete groups."
+msgstr "Vai trò xóa nhóm."
+
+#: dashboard/settings/statistics.php:18
+msgid "Track statistics for your adverts."
+msgstr "Theo dõi số liệu thống kê cho quảng cáo của bạn."
+
+#: dashboard/settings/statistics.php:21
+msgid "How to track stats"
+msgstr "Cách theo dõi số liệu thống kê"
+
+#: dashboard/settings/statistics.php:24
+msgid "Disabled - Do not track stats"
+msgstr "Vô hiệu hóa - Không theo dõi số liệu thống kê"
+
+#: dashboard/settings/statistics.php:32
+msgid "Tracks impressions and clicks locally"
+msgstr "Theo dõi số lần hiển thị và nhấp chuột cục bộ"
+
+#: dashboard/settings/statistics.php:32 dashboard/settings/statistics.php:35
+#: dashboard/settings/statistics.php:38 dashboard/settings/statistics.php:44
+msgid "Setup guide"
+msgstr "Hướng dẫn thiết lập"
+
+#: dashboard/settings/statistics.php:33
+msgid ""
+"Clicks and Impressions, Click and impression limits, impression spread for "
+"schedules. Javascript/HTML5 adverts will only track impressions."
+msgstr ""
+"Số lần nhấp và Số lần hiển thị, Số lần nhấp và số lần hiển thị, mức độ hiển "
+"thị cho lịch biểu. Quảng cáo Javascript / HTML5 sẽ chỉ theo dõi số lần hiển "
+"thị."
+
+#: dashboard/settings/statistics.php:35
+msgid "Requires Google Global Tag tracker installed in your sites footer!"
+msgstr ""
+"Yêu cầu trình theo dõi thẻ toàn cầu của Google được cài đặt trong phần chân "
+"trang của bạn!"
+
+#: dashboard/settings/statistics.php:36 dashboard/settings/statistics.php:42
+msgid ""
+"Clicks and Impressions via events. Javascript/HTML5 adverts will only track "
+"impressions."
+msgstr ""
+"Nhấp chuột và Ấn tượng thông qua các sự kiện. Quảng cáo Javascript / HTML5 "
+"sẽ chỉ theo dõi số lần hiển thị."
+
+#: dashboard/settings/statistics.php:38
+msgid ""
+"Requires Google Tag Manager installed in your sites head tag and a Google "
+"Analytics Account!"
+msgstr ""
+"Yêu cầu Trình quản lý thẻ của Google được cài đặt trong thẻ đầu trang web "
+"của bạn và Tài khoản Google Analytics!"
+
+#: dashboard/settings/statistics.php:39
+msgid ""
+"Clicks and Impressions via custom events. Javascript/HTML5 adverts will only "
+"track impressions."
+msgstr ""
+"Nhấp chuột và Ấn tượng thông qua các sự kiện tùy chỉnh. Quảng cáo "
+"Javascript / HTML5 sẽ chỉ theo dõi số lần hiển thị."
+
+#: dashboard/settings/statistics.php:41
+msgid ""
+"Maintained for backwards compatibility, please switch to Google Global Tag "
+"or Google Tag Manager."
+msgstr ""
+"Được duy trì để tương thích ngược, vui lòng chuyển sang Google Global Tag "
+"hoặc Google Tag Manager."
+
+#: dashboard/settings/statistics.php:44
+msgid ""
+"Requires a extended Piwik/Matomo tracker installed in your sites footer. See "
+"the manual for details."
+msgstr ""
+"Yêu cầu trình theo dõi Piwik / Matomo mở rộng được cài đặt trong phần chân "
+"trang của bạn. Xem hướng dẫn để biết chi tiết."
+
+#: dashboard/settings/statistics.php:45
+msgid ""
+"Click and Impression recording via Cookie. Javascript/HTML5 adverts will "
+"only track impressions."
+msgstr ""
+"Nhấp và ghi ấn tượng thông qua Cookie. Quảng cáo Javascript / HTML5 sẽ chỉ "
+"theo dõi số lần hiển thị."
+
+#: dashboard/settings/statistics.php:51
+msgid "AdRotate Tracker"
+msgstr "Trình theo dõi quảng cáo"
+
+#: dashboard/settings/statistics.php:52
+msgid ""
+"The settings below are for the internal tracker and have no effect when "
+"using Piwik/Google Analytics."
+msgstr ""
+"Các cài đặt bên dưới dành cho trình theo dõi nội bộ và không có hiệu lực khi "
+"sử dụng Piwik / Google Analytics."
+
+#: dashboard/settings/statistics.php:55
+msgid "Logged in impressions"
+msgstr "Đăng nhập trong hiển thị"
+
+#: dashboard/settings/statistics.php:57
+msgid "Track impressions from logged in users."
+msgstr "Theo dõi số lần hiển thị từ người dùng đã đăng nhập."
+
+#: dashboard/settings/statistics.php:61
+msgid "Logged in clicks"
+msgstr "Đăng nhập bằng cách nhấp"
+
+#: dashboard/settings/statistics.php:63
+msgid "Track clicks from logged in users."
+msgstr "Theo dõi nhấp chuột từ người dùng đã đăng nhập."
+
+#: dashboard/settings/statistics.php:67
+msgid "Impression timer"
+msgstr "Đồng hồ bấm giờ"
+
+#: dashboard/settings/statistics.php:69 dashboard/settings/statistics.php:76
+msgid "Seconds."
+msgstr "Giây."
+
+#: dashboard/settings/statistics.php:70
+msgid "Default: 60."
+msgstr "Mặc định: 60."
+
+#: dashboard/settings/statistics.php:70
+msgid "This number may not be empty, be lower than 10 or exceed 3600 (1 hour)."
+msgstr "Con số này có thể không trống, thấp hơn 10 hoặc vượt quá 3600 (1 giờ)."
+
+#: dashboard/settings/statistics.php:74
+msgid "Click timer"
+msgstr "Bấm hẹn giờ"
+
+#: dashboard/settings/statistics.php:77
+msgid "Default: 86400."
+msgstr "Mặc định: 86400."
+
+#: dashboard/settings/statistics.php:77
+msgid ""
+"This number may not be empty, be lower than 60 or exceed 86400 (24 hours)."
+msgstr ""
+"Con số này có thể không trống, thấp hơn 60 hoặc vượt quá 86400 (24 giờ)."
+
+#: dashboard/support.php:28
+msgid "Support Forums"
+msgstr "Diễn đàn hỗ trợ"
+
+#: dashboard/support.php:30
+msgid ""
+"When you are stuck with AdRotate or AdRotate Pro, check the forums first. "
+"Chances are your question has already been asked and answered!"
+msgstr ""
+"Khi bạn bị mắc kẹt với AdRotate hoặc AdRotate Pro, hãy kiểm tra các diễn đàn "
+"trước. Rất có thể câu hỏi của bạn đã được hỏi và trả lời!"
+
+#: dashboard/support.php:30
+msgid ""
+"Next to the forum there are many manuals and guides available for almost "
+"every function and feature in the plugin."
+msgstr ""
+"Bên cạnh diễn đàn có nhiều hướng dẫn và hướng dẫn có sẵn cho hầu hết mọi "
+"chức năng và tính năng trong plugin."
+
+#: dashboard/support.php:30
+msgid "Take a look at the AdRotate Manuals"
+msgstr "Hãy xem Hướng dẫn sử dụng AdRotate"
+
+#: dashboard/support.php:32 dashboard/support.php:33 dashboard/support.php:34
+#: dashboard/support.php:35 dashboard/support.php:36 dashboard/support.php:37
+msgid "View topics"
+msgstr "Xem chủ đề"
+
+#: dashboard/support.php:42
+msgid "Additional Services"
+msgstr "Dịch vụ bổ sung"
+
+#: dashboard/support.php:44
+msgid ""
+"Have stuff done for you, by AJdG Solutions. If you need HTML5 Adverts set "
+"up. Or do not know how to update the plugin. Get me to do it for you! These "
+"professional services are available for every AdRotate  and AdRotate Pro "
+"user and are usually handled in less than 2 business days."
+msgstr ""
+"Có những thứ được thực hiện cho bạn, bởi AJdG Solutions. Nếu bạn cần Quảng "
+"cáo HTML5 được thiết lập. Hoặc không biết cách cập nhật plugin. Hãy để tôi "
+"làm điều đó cho bạn! Các dịch vụ chuyên nghiệp này có sẵn cho mọi người dùng "
+"AdRotate và AdRotate Pro và thường được xử lý trong vòng chưa đầy 2 ngày làm "
+"việc."
+
+#: dashboard/support.php:46
+msgid "Update AdRotate Pro"
+msgstr ""
+
+#: dashboard/support.php:46
+msgid "Get a newer version of AdRotate Pro installed."
+msgstr "Nhận phiên bản mới hơn của AdRotate Pro được cài đặt."
+
+#: dashboard/support.php:46 dashboard/support.php:47
+msgid "Order now"
+msgstr "Đặt hàng ngay"
+
+#: dashboard/support.php:47
+msgid "Got a HTML5 advert that needs to be set up?"
+msgstr "Có một quảng cáo HTML5 cần được thiết lập?"
+
+#: dashboard/support.php:48
+msgid "AdRotate setup"
+msgstr "Thiết lập AdRotate"
+
+#: dashboard/support.php:48
+msgid ""
+"Contact AJdG Solutions and inquire about the possibilities to set up "
+"AdRotate for you."
+msgstr ""
+"Liên hệ với AJdG Solutions và hỏi về khả năng thiết lập AdRotate cho bạn."
+
+#: dashboard/support.php:56
+msgid "Premium Support available in AdRotate Pro"
+msgstr "Hỗ trợ cao cấp có sẵn trong AdRotate Pro"
+
+#: dashboard/support.php:59
+msgid "What went wrong? Or what are you trying to do?"
+msgstr "Có chuyện gì? Hay bạn đang cố gắng làm gì?"
+
+#: dashboard/support.php:59
+msgid "Include error messages and/or relevant information."
+msgstr "Bao gồm các thông báo lỗi và / hoặc thông tin liên quan."
+
+#: dashboard/support.php:59
+msgid "Try to remember any actions that may cause the problem."
+msgstr "Cố gắng nhớ bất kỳ hành động có thể gây ra vấn đề."
+
+#: dashboard/support.php:59
+msgid "Any code/HTML will be stripped from your message."
+msgstr "Bất kỳ mã / HTML nào sẽ bị xóa khỏi tin nhắn của bạn."
+
+#: dashboard/support.php:61
+msgid "Your name:"
+msgstr "Tên của bạn:"
+
+#: dashboard/support.php:62
+msgid "Your Email Address:"
+msgstr "Địa chỉ Email của bạn:"
+
+#: dashboard/support.php:63
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#: dashboard/support.php:64
+msgid "Problem description / Question:"
+msgstr "Mô tả vấn đề / Câu hỏi:"
+
+#: dashboard/support.php:65
+msgid "Please log in to my website and take a look."
+msgstr "Vui lòng đăng nhập vào trang web của tôi và hãy xem."
+
+#: dashboard/support.php:68
+msgid "When you send this form the following data will be submitted:"
+msgstr "Khi bạn gửi mẫu này, dữ liệu sau sẽ được gửi:"
+
+#: dashboard/support.php:69
+msgid ""
+"Your name, Account email address, Your website url and some basic WordPress "
+"information will be included with the message."
+msgstr ""
+"Tên, địa chỉ email tài khoản, url trang web của bạn và một số thông tin cơ "
+"bản về WordPress sẽ được gửi kèm theo thông báo."
+
+#: dashboard/support.php:69
+msgid "This information is treated as confidential and is mandatory."
+msgstr "Thông tin này được coi là bí mật và là bắt buộc."
+
+#: dashboard/support.php:72
+msgid "Get Help"
+msgstr "Nhận trợ giúp"
+
+#: dashboard/support.php:72
+msgid "Premium Support is available in AdRotate Pro!"
+msgstr "Hỗ trợ cao cấp có sẵn trong AdRotate Pro!"

@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hotel-galaxy\n"
+"POT-Creation-Date: 2016-09-23 12:20+0530\n"
+"PO-Revision-Date: 2019-09-20 10:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: breadcrums.php:17 include/menu/default_menu_walker.php:25
+#: include/theme-functions/breadcrums.php:6
+msgid "Home"
+msgstr "Trang chủ"
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Bài đăng này được bảo vệ bằng mật khẩu. Nhập mật khẩu để xem bất kỳ bình "
+"luận."
+
+#: comments.php:8
+msgid "No Comments"
+msgstr "Không có  bình luận"
+
+#: comments.php:8
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: comments.php:14
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:17
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:20
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:44
+msgid "Logged in as "
+msgstr "Đăng nhập với tư cách "
+
+#: comments.php:44
+msgid " Log out?"
+msgstr " Đăng xuất?"
+
+#: comments.php:45
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Để lại một bình luận %s"
+
+#: comments.php:47
+msgid "Submit Now"
+msgstr "Gửi ngay"
+
+#: comments.php:50
+msgid "Leave a Reply"
+msgstr "Để lại một bình luận"
+
+#: include/customizer/footer-collout.php:3
+msgid "Footer Collout"
+msgstr "Chú thích chân trang"
+
+#: include/customizer/footer-collout.php:18
+#: include/customizer/social-links.php:20
+msgid "This Section Link Open New Tab"
+msgstr "Liên kết phần này mở trong tab mới"
+
+#: include/customizer/footer-collout.php:37
+msgid "Icon 1"
+msgstr "Biểu tượng 1"
+
+#: include/customizer/footer-collout.php:50
+msgid "Footer Collout Title 1"
+msgstr "Tiêu đề chân trang 1"
+
+#: include/customizer/footer-collout.php:66
+msgid "Footer Collout Icon 1"
+msgstr "Biểu tượng chân trang 1"
+
+#: include/customizer/footer-collout.php:67
+#: include/customizer/footer-collout.php:134
+#: include/customizer/footer-collout.php:201
+#: include/customizer/footer-collout.php:268
+msgid ""
+"<a href=\"http://fontawesome.bootstrapcheatsheets.com\">FontAwesome Icons</a>"
+msgstr ""
+
+#: include/customizer/footer-collout.php:83
+msgid "Footer Collout Link 1"
+msgstr "Liên kết chân trang 1"
+
+#: include/customizer/footer-collout.php:104
+msgid "Icon 2"
+msgstr "Biểu tượng 2"
+
+#: include/customizer/footer-collout.php:117
+msgid "Footer Collout Title 2"
+msgstr "Tiêu đề chân trang 2"
+
+#: include/customizer/footer-collout.php:133
+msgid "Footer Collout Icon 2"
+msgstr "Biểu tượng chân trang 2"
+
+#: include/customizer/footer-collout.php:150
+msgid "Footer Collout Link 2"
+msgstr "Liên kết chân trang 2"
+
+#: include/customizer/footer-collout.php:171
+msgid "Icon 3"
+msgstr "Biểu tượng 3"
+
+#: include/customizer/footer-collout.php:184
+msgid "Footer Collout Title 3"
+msgstr "Tiêu đề chân trang 3"
+
+#: include/customizer/footer-collout.php:200
+msgid "Footer Collout Icon 3"
+msgstr "Biểu tượng chân trang 3"
+
+#: include/customizer/footer-collout.php:217
+msgid "Footer Collout Link 3"
+msgstr "Liên kết chân trang 3"
+
+#: include/customizer/footer-collout.php:238
+msgid "Icon 4"
+msgstr "Biểu tượng 4"
+
+#: include/customizer/footer-collout.php:251
+msgid "Footer Collout Title 4"
+msgstr "Tiêu đề chân trang 4"
+
+#: include/customizer/footer-collout.php:267
+msgid "Footer Collout Icon 4"
+msgstr "Biểu tượng chân trang 4"
+
+#: include/customizer/footer-collout.php:284
+msgid "Footer Collout Link 4"
+msgstr "Liên kết chân trang 4"
+
+#: include/customizer/footer-section.php:3
+msgid "Footer Options"
+msgstr "Tùy chọn chân trang"
+
+#: include/customizer/footer-section.php:18
+msgid "This Section Link Open In New Tab"
+msgstr "Liên kết phần này mở trong tab mới"
+
+#: include/customizer/footer-section.php:39
+msgid "About Us Section"
+msgstr "Phần About Us (Giới thiệu)"
+
+#: include/customizer/footer-section.php:51
+msgid "About Us Title"
+msgstr "Tiêu đề About Us"
+
+#: include/customizer/footer-section.php:66
+msgid "About Us Text"
+msgstr "Văn bản About Us"
+
+#: include/customizer/footer-section.php:86
+msgid "Follow Us Section"
+msgstr "Phần Follow Us (Theo dõi)"
+
+#: include/customizer/footer-section.php:98
+msgid "Follow Us Title"
+msgstr "Tiêu đề Follow Us"
+
+#: include/customizer/footer-section.php:119
+msgid "Post Section"
+msgstr "Phần Post (Bài viết)"
+
+#: include/customizer/footer-section.php:131
+msgid "Post Title"
+msgstr "Tiêu đề Post"
+
+#: include/customizer/footer-section.php:145
+msgid "Show Post"
+msgstr "Hiển thị Post"
+
+#: include/customizer/footer-section.php:164
+msgid "Contact Us Section"
+msgstr "Phần Liên hệ"
+
+#: include/customizer/footer-section.php:177
+msgid "Contact Title"
+msgstr "Tiêu đề"
+
+#: include/customizer/footer-section.php:195
+#: include/customizer/genral-option.php:18
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: include/customizer/footer-section.php:210
+msgid "Phone No."
+msgstr "Không có điện thoại."
+
+#: include/customizer/footer-section.php:225
+msgid "Email Address."
+msgstr "Địa chỉ Email."
+
+#: include/customizer/footer-section.php:244
+msgid "Copy Right Text"
+msgstr ""
+
+#: include/customizer/footer-section.php:255
+msgid "Copyright Text"
+msgstr ""
+
+#: include/customizer/footer-section.php:268
+msgid "Developed By"
+msgstr "Được phát triển bởi"
+
+#: include/customizer/footer-section.php:281
+msgid "Developed By Text"
+msgstr ""
+
+#: include/customizer/footer-section.php:296
+msgid "Developed By Link"
+msgstr ""
+
+#: include/customizer/genral-option.php:4
+msgid "Genral Options"
+msgstr "Tùy chọn tổng quan"
+
+#: include/customizer/genral-option.php:33
+msgid "Reservation Line"
+msgstr "SĐT đặt phòng"
+
+#: include/customizer/genral-option.php:49
+msgid "Fevicon Icon"
+msgstr ""
+
+#: include/customizer/genral-option.php:66
+msgid "Logo"
+msgstr ""
+
+#: include/customizer/genral-option.php:79
+msgid "Logo Width"
+msgstr ""
+
+#: include/customizer/genral-option.php:93
+msgid "Logo Height"
+msgstr ""
+
+#: include/customizer/page-title-section.php:5
+msgid "Page Title Section"
+msgstr "Phần tiêu đề trang"
+
+#: include/customizer/page-title-section.php:20
+msgid "Page Title Bg."
+msgstr "Tiêu đề trang Bg."
+
+#: include/customizer/social-links.php:5
+msgid "Social Section"
+msgstr "Phần mạng xã hội"
+
+#: include/customizer/social-links.php:35
+msgid "Facebook"
+msgstr ""
+
+#: include/customizer/social-links.php:50
+msgid "Twitter"
+msgstr ""
+
+#: include/customizer/social-links.php:64
+msgid "Skyup"
+msgstr ""
+
+#: include/customizer/social-links.php:78
+msgid "Google-plus"
+msgstr ""
+
+#: include/customizer/theme-customizer.php:6
+msgid "Hotel Galaxy Settings"
+msgstr "Cài đặt Hotel Galaxy"
+
+#: include/default_settings.php:8
+msgid "310"
+msgstr ""
+
+#: include/default_settings.php:9
+msgid "56"
+msgstr ""
+
+#: include/default_settings.php:12 include/default_settings.php:118
+#: include/default_settings.php:136
+msgid "1"
+msgstr ""
+
+#: include/default_settings.php:120
+msgid "Free Wi-Fi internet"
+msgstr ""
+
+#: include/default_settings.php:121
+msgid "fa fa-wifi"
+msgstr ""
+
+#: include/default_settings.php:122 include/default_settings.php:126
+#: include/default_settings.php:130 include/default_settings.php:134
+msgid "#"
+msgstr ""
+
+#: include/default_settings.php:124
+msgid "Deluxe Bad Room"
+msgstr ""
+
+#: include/default_settings.php:125
+msgid "fa fa-bed"
+msgstr ""
+
+#: include/default_settings.php:128
+msgid "Fresh Foods & drinks"
+msgstr ""
+
+#: include/default_settings.php:129
+msgid "fa fa-cutlery"
+msgstr ""
+
+#: include/default_settings.php:132
+msgid "Free public parking"
+msgstr ""
+
+#: include/default_settings.php:133
+msgid "fa fa-car"
+msgstr ""
+
+#: include/default_settings.php:137
+msgid " &#169; 2016 Hotel Gallexy Theme"
+msgstr ""
+
+#: include/default_settings.php:138
+msgid "All rights reserved."
+msgstr "Đã đăng ký Bản quyền."
+
+#: include/default_settings.php:139
+msgid "Hotel Gallexy"
+msgstr ""
+
+#: include/default_settings.php:142
+msgid "About Hotel"
+msgstr "Giới thiệu khách sạn"
+
+#: include/default_settings.php:143
+msgid ""
+"Laculis diam eu tortor euismodolo. Vestib primis inicibu orci luctus edloret "
+"ultrices odiocinialor it matis.Laculis diam eu tortor euismodolo. Vestib "
+"primis inicibu orci luctus edloret ultrices odiocinialor it matis."
+msgstr ""
+
+#: include/default_settings.php:145
+msgid "Follow Us"
+msgstr "Theo dõi chúng tôi"
+
+#: include/default_settings.php:147
+msgid "News & Events"
+msgstr "Tin tức & sự kiện"
+
+#: include/default_settings.php:148
+msgid "2"
+msgstr ""
+
+#: include/default_settings.php:150
+msgid "Contact Us"
+msgstr "Liên hệ chúng tôi"
+
+#: include/default_settings.php:151
+msgid "Some street.some town"
+msgstr ""
+
+#: include/default_settings.php:152
+msgid "(85)8998-4488-896"
+msgstr ""
+
+#: include/default_settings.php:153
+msgid "info@online.edu.com"
+msgstr ""
+
+#: include/theme-functions/breadcrums.php:69
+msgid "Error 404"
+msgstr ""
+
+#: include/theme-functions/breadcrums.php:116
+#: include/theme-functions/breadcrums.php:124
+#: include/theme-functions/breadcrums.php:129 pages/page-nocontent.php:14
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: include/theme-functions/breadcrums.php:118
+#: include/theme-functions/breadcrums.php:127
+#, php-format
+msgid "%1$s  %2$s"
+msgstr ""
+
+#: include/theme-functions/comment-function.php:11
+msgid "<i class=\"fa fa-comment-o\"></i>Reply"
+msgstr ""
+
+#: include/theme-functions/pagination.php:66
+msgid "Previous"
+msgstr "Trước"
+
+#: include/theme-functions/pagination.php:67
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: include/theme-functions/pagination.php:68
+msgid " "
+msgstr ""
+
+#: include/theme-functions/read-more-btn.php:11
+msgid "Read More"
+msgstr "Chi tiết"
+
+#: include/theme-functions/sidebar-manage.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: include/theme-functions/sidebar-manage.php:9
+msgid "The primary widget area"
+msgstr ""
+
+#: include/theme-functions/theme-setup-function.php:23
+msgid "Primary Menu"
+msgstr ""
+
+#: pages/author-intro.php:4
+msgid "About the Author"
+msgstr "Giới thiệu về tác giả"
+
+#: pages/page-nocontent.php:15
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr "Chúng tôi xin lỗi, nhưng trang bạn đang tìm kiếm không tồn tại."
+
+#: pages/page-nocontent.php:16
+msgid "Go To Homepage"
+msgstr "Chuyển đến Trang chủ"
+
+#: pages/post-content.php:28
+msgid "more"
+msgstr "hơn"
+
+#: pages/post-content.php:35
+msgid "Pages:"
+msgstr "Trang:"
+
+#: pages/post-content.php:41
+msgid "Next page"
+msgstr "Trang tiếp theo"
+
+#: pages/post-content.php:42
+msgid "Previous page"
+msgstr "Trang trước"
+
+#: searchform.php:4
+msgid "Search "
+msgstr "Tìm kiếm "
