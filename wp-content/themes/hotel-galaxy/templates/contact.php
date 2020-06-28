@@ -50,6 +50,9 @@ if(!is_front_page()){
                         }
                         
                         ?>
+                        <div class="map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4550.042869712686!2d107.59081855779567!3d16.46972685715659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3141a13cd1fb6a3d%3A0xb69ec59e61660f7a!2sMoonlight%20Hotel%20Hue!5e0!3m2!1svi!2s!4v1592472489058!5m2!1svi!2s" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        </div>
                     </div>
                     
                 </div>

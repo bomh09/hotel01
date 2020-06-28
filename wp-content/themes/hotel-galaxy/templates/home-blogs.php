@@ -52,7 +52,7 @@ $hotel_galaxy_settings = wp_parse_args(get_option( 'hotel_galaxy_option', array(
 							?>
 							<div class="content-title">
 								<div class="">
-									<h3 class="home-blog-single-title"><a href="<?php the_permalink(); ?>"><?php echo esc_attr(substr(get_the_title(), 0,40)); ?></a></h3>
+									<h3 class="home-blog-single-title"><a href="<?php the_permalink(); ?>"><?php echo esc_attr(substr(get_the_title(), 0,90)); ?></a></h3>
 								</div>
 							</div>
 							<div class="content-footer">						

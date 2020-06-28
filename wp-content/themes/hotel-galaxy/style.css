@@ -3017,6 +3017,7 @@ form>select {
 .home-blogs-section .content-title {
     padding: 5px 18px;
     background-color: #fff;
+    height: 90px;
 }
 
 .home-blogs-section .content-footer {
@@ -3416,4 +3417,33 @@ Policy Forms
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
     background: #FBB24A;
+}
+
+
+/* -------------------------------------------------------- */
+
+.map {
+    margin-top: 30px;
+}
+
+select {
+    color: #333 !important;
+}
+
+p.mphb_widget_search-adults,
+p.mphb_widget_search-children {
+    display: inline-block !important;
+}
+
+.about-desc p {
+    padding: 0 20px;
+    letter-spacing: 1.5px;
+    color: #8e959c;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1024px) {
+    .main-carousel .carousel-inner>.item>img {
+        height: auto;
+    }
 }

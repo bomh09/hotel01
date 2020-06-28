@@ -39,18 +39,18 @@ $wp_customize->add_control( 'blog_title', array(
 	));
 
 //how many latest blog show
-$wp_customize->add_setting('hotel_galaxy_option[blog_latest]',array(
-	'type'=>'option',
-	'default'=>$hotel_galaxy_option['blog_latest'],	
-	'sanitize_callback'=>'sanitize_text_field',
-	'capability'        => 'edit_theme_options',
-	));
-$wp_customize->add_control( 'blog_latest', array(
-	'label'        => __( 'Latest Blog Show', 'hotel-galaxy' ),
-	'type'=>'number',
-	'section'    => 'blog_sec',
-	'settings'   => 'hotel_galaxy_option[blog_latest]',
-	));
+// $wp_customize->add_setting('hotel_galaxy_option[blog_latest]',array(
+// 	'type'=>'option',
+// 	'default'=>$hotel_galaxy_option['blog_latest'],	
+// 	'sanitize_callback'=>'sanitize_text_field',
+// 	'capability'        => 'edit_theme_options',
+// 	));
+// $wp_customize->add_control( 'blog_latest', array(
+// 	'label'        => __( 'Latest Blog Show', 'hotel-galaxy' ),
+// 	'type'=>'number',
+// 	'section'    => 'blog_sec',
+// 	'settings'   => 'hotel_galaxy_option[blog_latest]',
+// 	));
 
 /**blog bg section**/
 

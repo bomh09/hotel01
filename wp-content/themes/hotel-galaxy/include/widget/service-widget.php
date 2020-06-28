@@ -23,9 +23,9 @@ class hotel_galaxy_service_widget extends WP_Widget {
 		$instance['icon'] = ( isset($instance['icon'] ) ? $instance['icon'] : '' );
 		$instance['icon_color'] = ( isset($instance['icon_color'] ) ? $instance['icon_color'] : '' );
 		$instance['title'] = ( isset($instance['title'] ) ? $instance['title'] : '' );
+		$instance['title_url'] = ( isset($instance['title_url'] ) ? $instance['title_url'] : '' );
 		$instance['desc'] = ( isset($instance['desc'] ) ? $instance['desc'] : '' );
-		$instance['btn_text'] = ( isset($instance['btn_text'] ) ? $instance['btn_text'] : '' );
-		$instance['btn_url'] = ( isset($instance['btn_url'] ) ? $instance['btn_url'] : '' );
+		$charcount = intval($instance['charcount']);
 		$instance['btn_target'] = ( isset($instance['btn_target'] ) && $instance['btn_target'] == 1 ? 1 : 0 );
 		
 		echo $args['before_widget'];		
@@ -36,7 +36,7 @@ class hotel_galaxy_service_widget extends WP_Widget {
 				<?php 
 				if( $instance['icon']!=''){
 					?>
-					<a class="sr-icon" href="<?php echo esc_url( $instance['btn_url'] ); ?>"><i class="<?php echo esc_attr( $instance['icon'] ); ?>" style="color:<?php echo esc_attr($instance['icon_color']!='') ? $instance['icon_color'] : '#a29060' ?>"></i></a>
+					<a class="sr-icon" href="<?php echo esc_url( $instance['title_url'] ); ?>"><i class="<?php echo esc_attr( $instance['icon'] ); ?>" style="color:<?php echo esc_attr($instance['icon_color']!='') ? $instance['icon_color'] : '#a29060' ?>"></i></a>
 					<?php
 				}
 				?>
@@ -45,7 +45,7 @@ class hotel_galaxy_service_widget extends WP_Widget {
 					<?php 
 					if($instance['title']!=''){
 						?>
-						<a href="<?php echo esc_url( $instance['btn_url'] ); ?>">
+						<a href="<?php echo esc_url( $instance['title_url'] ); ?>">
 							<?php echo esc_html( $instance['title'] ); ?>
 						</a>
 						<?php
@@ -56,24 +56,12 @@ class hotel_galaxy_service_widget extends WP_Widget {
 				<?php 
 				if($instance['desc']!=''){
 					?>
-					<p><?php echo esc_html( $instance['desc'] ); ?></p>
+					<p><?php echo substr( $instance['desc'], 0, $charcount ); ?></p>
 					<?php
 				} 
 				?>	
 
-				<?php 
-				if($instance['btn_text']!=''){
-					?>
-					<hr>
-					<div class="text-center">
-						<a href="<?php echo esc_url( $instance['btn_url'] ); ?>" class="custom-btn book-sm" <?php if(!empty($instance['btn_target'])) echo 'target="_blank"'; ?> style="background:<?php echo esc_attr($instance['icon_color']!='') ? $instance['icon_color'] : '#dbb26b' ?>">
-							<i class="fa fa-chevron-circle-right"></i>
-							<?php echo esc_html( $instance['btn_text'] ); ?>
-						</a>
-					</div>
-					<?php
-				} 
-				?>	
+					
 
 			</div>
 		</div><!-- .services-item -->
@@ -87,9 +75,9 @@ class hotel_galaxy_service_widget extends WP_Widget {
 		$instance['icon'] = ( isset($instance['icon'] ) ? $instance['icon'] : '' );
 		$instance['icon_color'] = ( isset($instance['icon_color'] ) ? $instance['icon_color'] : '' );
 		$instance['title'] = ( isset($instance['title'] ) ? $instance['title'] : '' );
+		$instance['title_url'] = ( isset($instance['title_url'] ) ? $instance['title_url'] : '' );
 		$instance['desc'] = ( isset($instance['desc'] ) ? $instance['desc'] : '' );
-		$instance['btn_text'] = ( isset($instance['btn_text'] ) ? $instance['btn_text'] : '' );
-		$instance['btn_url'] = ( isset($instance['btn_url'] ) ? $instance['btn_url'] : '' );
+		$charcount = !empty($instance['charcount']) && intval($instance['charcount']) > 0 ? intval($instance['charcount']) : 100;
 		$instance['btn_target'] = ( isset($instance['btn_target'] ) && $instance['btn_target'] == 1 ? 1 : 0 );
 		?>
 		
@@ -108,24 +96,26 @@ class hotel_galaxy_service_widget extends WP_Widget {
 		</p>
 		
 		<p>
-			<label for="<?php echo $this->get_field_id( 'desc' ); ?>"><?php _e( 'Service Description:','hotel-galaxy' ); ?></label>
-			<textarea class="widefat" id="<?php echo $this->get_field_id( 'desc' ); ?>" name="<?php echo $this->get_field_name( 'desc' ); ?>" ><?php echo esc_attr( $instance['desc'] ); ?></textarea>
-		</p>
-		
-		<p>
-			<label for="<?php echo $this->get_field_id( 'btn_text' ); ?>"><?php _e( 'Service Button Text:','hotel-galaxy' ); ?></label> 
-			<input class="widefat" id="<?php echo $this->get_field_id( 'btn_text' ); ?>" name="<?php echo $this->get_field_name( 'btn_text' ); ?>" type="text" value="<?php echo esc_attr( $instance['btn_text'] ); ?>" />
-		</p>
-		
-		<p>
-			<label for="<?php echo $this->get_field_id( 'btn_url' ); ?>"><?php _e( 'Service Button Link:','hotel-galaxy' ); ?></label> 
-			<input class="widefat" id="<?php echo $this->get_field_id( 'btn_url' ); ?>" name="<?php echo $this->get_field_name( 'btn_url' ); ?>" type="text" value="<?php echo esc_attr( $instance['btn_url'] ); ?>" />
+			<label for="<?php echo $this->get_field_id( 'title_url' ); ?>"><?php _e( 'Service Title Link:','hotel-galaxy' ); ?></label> 
+			<input class="widefat" id="<?php echo $this->get_field_id( 'title_url' ); ?>" name="<?php echo $this->get_field_name( 'title_url' ); ?>" type="text" value="<?php echo esc_attr( $instance['title_url'] ); ?>" />
 		</p>
 		
 		<p>
 			<label for="<?php echo $this->get_field_id( 'btn_target' ); ?>"><?php _e( 'Open in new tab:','hotel-galaxy' ); ?></label> 
 			<input type="checkbox" id="<?php echo $this->get_field_id( 'btn_target' ); ?>" name="<?php echo $this->get_field_name( 'btn_target' ); ?>" value="1" <?php if( $instance['btn_target'] == true ){ echo 'checked'; } ?> />
 		</p>
+		
+		<p>
+			<label for="<?php echo $this->get_field_id( 'desc' ); ?>"><?php _e( 'Service Description:','hotel-galaxy' ); ?></label>
+			<textarea class="widefat" id="<?php echo $this->get_field_id( 'desc' ); ?>" name="<?php echo $this->get_field_name( 'desc' ); ?>" ><?php echo esc_attr( $instance['desc'] ); ?></textarea>
+		</p>
+
+		<p>
+            <label for="<?php echo $this->get_field_id('charcount'); ?>">Maximum chars:</label>
+            <input type="number" id="<?php echo $this->get_field_id('col'); ?>" class="widefat"
+                   name="<?php echo $this->get_field_name('charcount'); ?>" value="<?php echo $charcount; ?>"/>
+        </p>
+
 
 		<?php 
 	}
@@ -136,9 +126,9 @@ class hotel_galaxy_service_widget extends WP_Widget {
 		$instance['icon'] = ( ! empty( $new_instance['icon'] ) ) ? sanitize_text_field( $new_instance['icon'] ) : '';
 		$instance['icon_color'] = ( ! empty( $new_instance['icon_color'] ) ) ? sanitize_text_field( $new_instance['icon_color'] ) : '';
 		$instance['title'] = ( ! empty( $new_instance['title'] ) ) ? sanitize_text_field( $new_instance['title'] ) : '';
+		$instance['title_url'] = ( ! empty( $new_instance['title_url'] ) ) ? esc_url_raw( $new_instance['title_url'] ) : '';
 		$instance['desc'] = ( ! empty( $new_instance['desc'] ) ) ? sanitize_text_field( $new_instance['desc'] ) : '';
-		$instance['btn_text'] = ( ! empty( $new_instance['btn_text'] ) ) ? sanitize_text_field(  $new_instance['btn_text'] ) : '';
-		$instance['btn_url'] = ( ! empty( $new_instance['btn_url'] ) ) ? esc_url_raw( $new_instance['btn_url'] ) : '';
+		$instance['charcount'] = intval($new_instance['charcount']) > 0 ? intval($new_instance['charcount']) : 200;
 		$instance['btn_target'] = isset( $new_instance['btn_target'] ) && $new_instance['btn_target'] == 1  ? 1 : 0 ;
 		
 		return $instance;

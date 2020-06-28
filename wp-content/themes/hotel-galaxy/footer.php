@@ -92,7 +92,7 @@ $('.owl-services').owlCarousel({
     loop: true,
     margin: 10,
     nav: false,
-    autoplay: false,
+    autoplay: true,
     autoplayTimeout: 10000,
     autoplayHoverPause: true,
     responsive: {
@@ -111,7 +111,7 @@ $('.owl-rooms').owlCarousel({
     loop: true,
     margin: 10,
 	nav: false,
-    autoplay: false,
+    autoplay: true,
     autoplayTimeout: 10000,
     autoplayHoverPause: true,
     responsive: {
